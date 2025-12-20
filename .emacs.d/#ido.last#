@@ -1,0 +1,41 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/bivector/Programming/recursion/" . "tail_recursion/")
+ ("/home/bivector/Programming/" . "recursion/")
+ ("/home/bivector/" . "2048/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/bivector/2048/"
+ "/home/bivector/Programming/recursion/tail_recursion/"
+ "/home/bivector/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "2048.c"
+ "main.c"
+ ".emacs"
+ "squircle.c"
+ "game.c"
+ ".emacs.custom.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/bivector/" (26812 5343 87407 47000) "st/" "yay/" "2048/" ".emacs.custom.el~" ".bash_history-02572.tmp" ".cache/" ".dmrc" ".bash_history-00530.tmp" ".emacs.custom.el" ".emacs" ".Xauthority" "../" ".bash_history" ".config/" ".viminfo" ".emacs.local/" ".ICEauthority" ".vimrc" ".gnupg/" ".bashrc" ".local/" ".lesshst" ".pki/" "Apps/" ".xsession-errors.old" ".bash_profile" ".nimble/" "Programming/" "Downloads/" ".xsession-errors" ".emacs.rc/" "sowon/" ".bash_logout" "./" ".mozilla/" ".emacs~" ".emacs.d/")
+
+ ("/home/bivector/2048/" (26812 5283 993989 61000) "2048.c" "README.md" ".git/" "../" ".gitignore" "main.c" "a.out" "./" "Makefile" "game")
+
+ ("/home/bivector/Programming/recursion/tail_recursion/" (26804 10509 985519 641000) "main.c~" "../" "main.c" "./")
+
+ ("/home/bivector/Programming/recursion/" (26804 9700 887088 653000) "../" "tail_recursion/" "./")
+
+ ("/home/bivector/Programming/" (26804 9542 443416 663000) "../" "recursion/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

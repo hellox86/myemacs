@@ -1,0 +1,98 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/2048play.github.io/" . "scripts/")
+ ("c:/Users/MSI/Desktop/Test/" . "Olympiad/")
+ ("c:/Users/MSI/Desktop/" . "Test/")
+ ("c:/Gameboy/" . "font/")
+ ("c:/Users/MSI/AppData/" . "Roaming/")
+ ("c:/Users/MSI/" . ".ssh/")
+ ("c:/Users/" . "MSI/")
+ ("c:/" . "2048play.github.io/")
+ ("/home/bivector/Programming/recursion/" . "tail_recursion/")
+ ("/home/bivector/Programming/" . "recursion/")
+ ("/home/bivector/" . "2048/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/2048play.github.io/scripts/"
+ "c:/2048play.github.io/"
+ "c:/Users/MSI/"
+ "c:/Users/MSI/.ssh/"
+ "c:/Users/MSI/Desktop/Test/Olympiad/"
+ "c:/Users/MSI/Desktop/Test/"
+ "c:/Users/MSI/Desktop/"
+ "c:/Users/MSI/emacs/bin/"
+ "c:/Gameboy/font/"
+ "c:/Gameboy/menu/"
+ "c:/Gameboy/hello/"
+ "c:/Users/MSI/AppData/Roaming/"
+ "c:/"
+ "/home/bivector/2048/"
+ "/home/bivector/Programming/recursion/tail_recursion/"
+ "/home/bivector/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "game.js"
+ "style.css"
+ "startServer.bat"
+ "index.html"
+ "reverse_int.py"
+ "reverse_int.c"
+ "config"
+ "lanterns.c"
+ "lantern.c"
+ "test.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/2048play.github.io/scripts/" (26941 15028 0 0) "tumbler-logic.js" "rotationMatrixModule.js" "main.js" "game.js" "../" "./")
+
+ ("c:/2048play.github.io/" (26941 15028 0 0) "styles/" "style.css" "scripts/" "index.html" "assets/" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/MSI/" (26941 15036 0 0) "Шаблоны/" "Мои документы/" "главное меню/" "zapret-openwrt-strategies/" "zapret-discord-youtube/" "VirtualBox VMs/" "VirtualBox VM/" "vimified/" "vimfiles/" "vim-plug/" "Videos/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrismLauncher/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "NetHood/" "Music/" "Local Settings/" "Links/" "HexCtrlDialogx64.exe" "gcc/" "find" "Favorites/" "emacs/" "Downloads/" "Documents/" "Doctor Web/" "Desktop/" "Cookies/" "Contacts/" "chromium/" "chromedriver/" "chrome/" "Application Data/" "AppData/" "a.exe" "3D Objects/" ".vscode/" ".VPNMaster/" ".VirtualBox/" ".viminfo" ".vim/" ".txt" ".thumbnails/" ".templateengine/" ".ssh/" ".python_history" ".platformio/" ".node_repl_history" ".m2/" ".lesshst" ".jdks/" ".idlerc/" ".gradle/" ".gitconfig" ".elevenclock/" ".dotnet/" ".config/" ".cisco/" ".bash_history" ".arduinoIDE/" ".android/" "../" "./")
+
+ ("c:/Users/MSI/.ssh/" (26881 34056 0 0) "known_hosts" "config" "../" "./")
+
+ ("c:/Users/MSI/Desktop/Test/Olympiad/" (26868 37439 0 0) "lanterns.c" "../" "./")
+
+ ("c:/Users/MSI/AppData/Roaming/" (26849 6872 0 0) "Yandex/" "Xiaomi/" "WinRAR/" "Visual Studio Setup/" "ts-modmail/" "Telegram Desktop/" "Sun/" "qBittorrent/" "PrismLauncher/" "ow-electron/" "NuGet/" "npm/" "Notepad++/" "MySQL/" "Mozilla/" "mongo-db/" "Mindustry/" "Microsoft/" "Macromedia/" "jupyter/" "jun-takahashi/" "java/" "FTB Electron App/" "Factorio/" "draw.io/" "discord/" "Code/" "chats/" "blue-helmets/" "BleachBit/" "arduino-ide/" "Arduino IDE/" "AMD/" "Adobe/" ".minecraft/" ".emacs~" ".emacs.rc/" ".emacs.local/" ".emacs.d/" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" "../" "./")
+
+ ("c:/Users/MSI/Desktop/Test/" (26867 51302 0 0) "test.c~" "test.c" "Olympiad/" "a.exe" "../" "./")
+
+ ("c:/Users/MSI/Desktop/" (26867 48405 0 0) "Резюме Е.С. Часовитина.docx" "Работа/" "Музыка/" "Гемма/" "Test/" "Terminal_RDP.rdp" "Main.lnk" "keyboard_test.rtf" "Hexer.lnk" "emacs.lnk" "drawio/" "desktop.ini" "DCIM_Canon/" "Cisco AnyConnect Secure Mobility Client.lnk" "Chromium.lnk" "Arduino IDE.lnk" "../" "./")
+
+ ("c:/Gameboy/hello/" (26842 20805 0 0) "myfont.h~" "myfont.h" "hello.ino~" "hello.ino" ".git/" "../" "./")
+
+ ("c:/Gameboy/menu/" (26840 57088 0 0) "menu.ino~" "menu.ino" "../" "./")
+
+ ("c:/Users/MSI/emacs/bin/" (26848 41402 0 0) "zlib1.dll" "runemacs.exe" "libzstd.dll" "libXpm-nox4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libwebpdemux-2.dll" "libwebp-7.dll" "libunistring-5.dll" "libtree-sitter.dll" "libthai-0.dll" "libtasn1-6.dll" "libstdc++-6.dll" "libsqlite3-0.dll" "libsharpyuv-0.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre2-8-0.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-8.dll" "libmpfr-6.dll" "libmpc-3.dll" "liblzma-5.dll" "liblcms2-2.dll" "libjpeg-8.dll" "libisl-23.dll" "libintl-8.dll" "libidn2-0.dll" "libiconv-2.dll" "libhogweed-6.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgobject-2.0-0.dll" "libgnutls-30.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-8.dll" "libexpat-1.dll" "libdatrie-1.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libbrotlienc.dll" "libbrotlidec.dll" "libbrotlicommon.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-30.2.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "#main.c#" "#libmpfr-6.dll#" "../" "./")
+
+ ("c:/Gameboy/font/" (26842 18358 0 0) "../" "./")
+
+ ("c:/Gameboy/" (26842 18360 0 0) "menu/" "hello/" "font/" "../" "./")
+
+ ("c:/Users/MSI/AppData/" (25694 3772 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/" (26444 33377 0 0) "Все пользователи/" "Администратор/" "Public/" "MSI/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/MSI/emacs/" (26838 36378 0 0) "share/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/home/bivector/" (26831 48645 499465 328000) "st/" "yay/" "2048/" ".bash_history-00537.tmp" ".emacs.custom.el~" ".bash_history-02572.tmp" ".cache/" ".dmrc" ".bash_history-00530.tmp" ".emacs.custom.el" ".emacs" ".Xauthority" "../" ".bash_history" ".config/" ".viminfo" ".emacs.local/" ".ICEauthority" ".vimrc" ".gnupg/" ".bashrc" ".local/" ".lesshst" ".pki/" "Apps/" ".xsession-errors.old" ".bash_history-00546.tmp" ".bash_profile" ".nimble/" "Programming/" "Downloads/" ".xsession-errors" ".emacs.rc/" "sowon/" ".bash_logout" "./" ".mozilla/" ".emacs~" ".emacs.d/")
+
+ ("/home/bivector/2048/" (26822 28650 773147 270000) "2048.c" "README.md" ".git/" "../" ".gitignore" "main.c" "a.out" "./" "Makefile" "game")
+
+ ("/home/bivector/Programming/recursion/tail_recursion/" (26804 10509 985519 641000) "main.c~" "../" "main.c" "./")
+
+ ("/home/bivector/Programming/recursion/" (26804 9700 887088 653000) "../" "tail_recursion/" "./")
+
+ ("/home/bivector/Programming/" (26804 9542 443416 663000) "../" "recursion/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

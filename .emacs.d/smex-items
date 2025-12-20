@@ -1,0 +1,35 @@
+
+;; ----- smex-history -----
+(
+ compile
+ customize-variable
+ display-line-numbers-mode
+ dired
+ customize-themes
+ c++-mode
+ makefile-mode
+)
+
+;; ----- smex-data -----
+(
+ (cd . 2)
+ (compile . 1865)
+ (dired . 11)
+ (magit . 5)
+ (list-packages . 4)
+ (beginning-of-buffer . 1)
+ (end-of-buffer . 1)
+ (sdb . 2)
+ (dired-create-directory . 1)
+ (dired-create-empty-file . 1)
+ (make-directory . 2)
+ (comment-region . 1)
+ (uncomment-region . 3)
+ (make-empty-file . 6)
+ (delete-file . 3)
+ (makefile-mode . 2)
+ (customize-variable . 7)
+ (c++-mode . 16)
+ (customize-themes . 2)
+ (display-line-numbers-mode . 4)
+)

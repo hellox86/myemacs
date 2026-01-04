@@ -51,6 +51,8 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("c:/Users/MSI/AppData/Roaming/" (26932 25492 0 0) "Yandex/" "Xiaomi/" "Wireshark/" "WinRAR/" "Visual Studio Setup/" "ts-modmail/" "Telegram Desktop/" "Sun/" "qBittorrent/" "PrismLauncher/" "ow-electron/" "NuGet/" "npm/" "Notepad++/" "MySQL/" "mpv/" "MPC-HC/" "Mozilla/" "mongo-db/" "Mindustry/" "Microsoft/" "Macromedia/" "jupyter/" "jun-takahashi/" "java/" "FTB Electron App/" "Factorio/" "draw.io/" "discord/" "com.xiaomitool.v2.gui.MainWindow/" "Code/" "chats/" "blue-helmets/" "BleachBit/" "balenaEtcher/" "arduino-ide/" "Arduino IDE/" "AMD/" "Adobe/" ".minecraft/" ".emacs~" ".emacs.local/" ".emacs.d/" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" "../" "./")
+
  ("c:/2048play.github.io/scripts/" (26941 15028 0 0) "tumbler-logic.js" "rotationMatrixModule.js" "main.js" "game.js" "../" "./")
 
  ("c:/2048play.github.io/" (26941 15028 0 0) "styles/" "style.css" "scripts/" "index.html" "assets/" ".gitignore" ".git/" "../" "./")
@@ -60,8 +62,6 @@
  ("c:/Users/MSI/.ssh/" (26881 34056 0 0) "known_hosts" "config" "../" "./")
 
  ("c:/Users/MSI/Desktop/Test/Olympiad/" (26868 37439 0 0) "lanterns.c" "../" "./")
-
- ("c:/Users/MSI/AppData/Roaming/" (26849 6872 0 0) "Yandex/" "Xiaomi/" "WinRAR/" "Visual Studio Setup/" "ts-modmail/" "Telegram Desktop/" "Sun/" "qBittorrent/" "PrismLauncher/" "ow-electron/" "NuGet/" "npm/" "Notepad++/" "MySQL/" "Mozilla/" "mongo-db/" "Mindustry/" "Microsoft/" "Macromedia/" "jupyter/" "jun-takahashi/" "java/" "FTB Electron App/" "Factorio/" "draw.io/" "discord/" "Code/" "chats/" "blue-helmets/" "BleachBit/" "arduino-ide/" "Arduino IDE/" "AMD/" "Adobe/" ".minecraft/" ".emacs~" ".emacs.rc/" ".emacs.local/" ".emacs.d/" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" "../" "./")
 
  ("c:/Users/MSI/Desktop/Test/" (26867 51302 0 0) "test.c~" "test.c" "Olympiad/" "a.exe" "../" "./")
 

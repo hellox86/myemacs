@@ -4,10 +4,10 @@
 (
  ("c:/2048play.github.io/" . "scripts/")
  ("c:/Users/MSI/Desktop/Test/" . "Olympiad/")
- ("c:/Users/MSI/Desktop/" . "Test/")
+ ("c:/Users/MSI/Desktop/" . "test/")
  ("c:/Gameboy/" . "font/")
  ("c:/Users/MSI/AppData/" . "Roaming/")
- ("c:/Users/MSI/" . ".ssh/")
+ ("c:/Users/MSI/" . "AppData/")
  ("c:/Users/" . "MSI/")
  ("c:/" . "2048play.github.io/")
  ("/home/bivector/Programming/recursion/" . "tail_recursion/")
@@ -17,8 +17,12 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "c:/Users/MSI/AppData/Roaming/"
  "c:/2048play.github.io/scripts/"
+ "c:/Users/MSI/Desktop/test/"
  "c:/2048play.github.io/"
+ "c:/2048play.github.io/assets/"
+ "c:/2048play.github.io/styles/"
  "c:/Users/MSI/"
  "c:/Users/MSI/.ssh/"
  "c:/Users/MSI/Desktop/Test/Olympiad/"
@@ -28,7 +32,6 @@
  "c:/Gameboy/font/"
  "c:/Gameboy/menu/"
  "c:/Gameboy/hello/"
- "c:/Users/MSI/AppData/Roaming/"
  "c:/"
  "/home/bivector/2048/"
  "/home/bivector/Programming/recursion/tail_recursion/"
@@ -37,35 +40,41 @@
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
  "game.js"
- "style.css"
- "startServer.bat"
+ "main.js"
  "index.html"
- "reverse_int.py"
- "reverse_int.c"
- "config"
- "lanterns.c"
- "lantern.c"
- "test.c"
+ "test.js"
+ "rotationMatrixModule.js"
+ "style.css"
+ "particles.json"
+ "github_icon.png"
+ "tumbler-style.css"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/MSI/AppData/Roaming/" (26932 25492 0 0) "Yandex/" "Xiaomi/" "Wireshark/" "WinRAR/" "Visual Studio Setup/" "ts-modmail/" "Telegram Desktop/" "Sun/" "qBittorrent/" "PrismLauncher/" "ow-electron/" "NuGet/" "npm/" "Notepad++/" "MySQL/" "mpv/" "MPC-HC/" "Mozilla/" "mongo-db/" "Mindustry/" "Microsoft/" "Macromedia/" "jupyter/" "jun-takahashi/" "java/" "FTB Electron App/" "Factorio/" "draw.io/" "discord/" "com.xiaomitool.v2.gui.MainWindow/" "Code/" "chats/" "blue-helmets/" "BleachBit/" "balenaEtcher/" "arduino-ide/" "Arduino IDE/" "AMD/" "Adobe/" ".minecraft/" ".emacs~" ".emacs.local/" ".emacs.d/" ".emacs.custom.el~" ".emacs.custom.el" ".emacs" "../" "./")
+ ("c:/Users/MSI/Desktop/Test/" (26970 26609 0 0) "startServer.bat" "main.js" "index.html" "../" "./")
 
- ("c:/2048play.github.io/scripts/" (26941 15028 0 0) "tumbler-logic.js" "rotationMatrixModule.js" "main.js" "game.js" "../" "./")
+ ("c:/Users/MSI/Desktop/test/" (26970 26609 0 0) "startServer.bat" "main.js" "index.html" "../" "./")
 
- ("c:/2048play.github.io/" (26941 15028 0 0) "styles/" "style.css" "scripts/" "index.html" "assets/" ".gitignore" ".git/" "../" "./")
+ ("c:/Users/MSI/AppData/Roaming/" (26970 28466 0 0) "Yandex/" "Xiaomi/" "Wireshark/" "WinRAR/" "Visual Studio Setup/" "ts-modmail/" "Telegram Desktop/" "Sun/" "qBittorrent/" "PrismLauncher/" "ow-electron/" "obs-studio/" "NuGet/" "npm/" "Notepad++/" "MySQL/" "mpv/" "MPC-HC/" "Mozilla/" "mongo-db/" "Mindustry/" "Microsoft/" "Macromedia/" "jupyter/" "jun-takahashi/" "java/" "FTB Electron App/" "Factorio/" "emacs-git/" "draw.io/" "discord/" "com.xiaomitool.v2.gui.MainWindow/" "chats/" "blue-helmets/" "BleachBit/" "balenaEtcher/" "arduino-ide/" "Arduino IDE/" "Apple Computer/" "AMD/" "Adobe/" ".minecraft/" ".emacs.local/" ".emacs.d/" ".emacs.custom.el" ".emacs" "#message-20251231-192540#" "../" "./")
 
- ("c:/Users/MSI/" (26941 15036 0 0) "Шаблоны/" "Мои документы/" "главное меню/" "zapret-openwrt-strategies/" "zapret-discord-youtube/" "VirtualBox VMs/" "VirtualBox VM/" "vimified/" "vimfiles/" "vim-plug/" "Videos/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrismLauncher/" "PrintHood/" "Pictures/" "ntuser.ini" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "NetHood/" "Music/" "Local Settings/" "Links/" "HexCtrlDialogx64.exe" "gcc/" "find" "Favorites/" "emacs/" "Downloads/" "Documents/" "Doctor Web/" "Desktop/" "Cookies/" "Contacts/" "chromium/" "chromedriver/" "chrome/" "Application Data/" "AppData/" "a.exe" "3D Objects/" ".vscode/" ".VPNMaster/" ".VirtualBox/" ".viminfo" ".vim/" ".txt" ".thumbnails/" ".templateengine/" ".ssh/" ".python_history" ".platformio/" ".node_repl_history" ".m2/" ".lesshst" ".jdks/" ".idlerc/" ".gradle/" ".gitconfig" ".elevenclock/" ".dotnet/" ".config/" ".cisco/" ".bash_history" ".arduinoIDE/" ".android/" "../" "./")
+ ("c:/2048play.github.io/scripts/" (26970 28346 0 0) "rotationMatrixModule.js" "main.js" "game.js" "../" "./")
 
- ("c:/Users/MSI/.ssh/" (26881 34056 0 0) "known_hosts" "config" "../" "./")
+ ("c:/Users/MSI/" (26970 28143 0 0) "Шаблоны/" "Мои документы/" "главное меню/" "zapret-openwrt-strategies/" "zapret-discord-youtube/" "VirtualBox VMs/" "VirtualBox VM/" "vimified/" "vimfiles/" "vim-plug/" "Videos/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrismLauncher/" "PrintHood/" "Pictures/" "package.json" "package-lock.json" "ntuser.ini" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "NetHood/" "Music/" "Local Settings/" "Links/" "HexCtrlDialogx64.exe" "gcc/" "find" "Favorites/" "emacs/" "Downloads/" "Documents/" "Doctor Web/" "Desktop/" "Cookies/" "Contacts/" "chromium/" "chromedriver/" "chrome/" "Application Data/" "AppData/" "3D Objects/" ".vscode/" ".VPNMaster/" ".VirtualBox/" ".viminfo" ".vim/" ".txt" ".thumbnails/" ".templateengine/" ".ssh/" ".python_history" ".platformio/" ".node_repl_history" ".m2/" ".lesshst" ".jdks/" ".idlerc/" ".gradle/" ".gitconfig" ".elevenclock/" ".dotnet/" ".config/" ".cisco/" ".chocolatey/" ".bash_history" ".arduinoIDE/" ".android/" "../" "./")
+
+ ("c:/2048play.github.io/styles/" (26966 6336 0 0) "../" "./")
+
+ ("c:/2048play.github.io/assets/" (26966 6402 0 0) "github_icon.png" "favicon.ico" "../" "./")
+
+ ("c:/Users/MSI/Desktop/" (26968 43507 0 0) "Резюме Е.С. Часовитина.docx" "Работа/" "Музыка/" "Гемма/" "Tor Browser/" "test.html" "test/" "Terminal_RDP.rdp" "redwood_miui14/" "keyboard_test.rtf" "emacs.lnk" "drawio/" "desktop.ini" "DCIM_Canon/" "Cisco AnyConnect Secure Mobility Client.lnk" "Chromium.lnk" "Arduino IDE.lnk" "../" "./")
+
+ ("c:/2048play.github.io/" (26966 6602 0 0) "styles/" "style.css" "startServer.bat" "scripts/" "index.html" "assets/" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/MSI/.ssh/" (26950 25306 0 0) "known_hosts.old" "known_hosts" "id_ed25519.pub" "id_ed25519" "config" "../" "./")
 
  ("c:/Users/MSI/Desktop/Test/Olympiad/" (26868 37439 0 0) "lanterns.c" "../" "./")
-
- ("c:/Users/MSI/Desktop/Test/" (26867 51302 0 0) "test.c~" "test.c" "Olympiad/" "a.exe" "../" "./")
-
- ("c:/Users/MSI/Desktop/" (26867 48405 0 0) "Резюме Е.С. Часовитина.docx" "Работа/" "Музыка/" "Гемма/" "Test/" "Terminal_RDP.rdp" "Main.lnk" "keyboard_test.rtf" "Hexer.lnk" "emacs.lnk" "drawio/" "desktop.ini" "DCIM_Canon/" "Cisco AnyConnect Secure Mobility Client.lnk" "Chromium.lnk" "Arduino IDE.lnk" "../" "./")
 
  ("c:/Gameboy/hello/" (26842 20805 0 0) "myfont.h~" "myfont.h" "hello.ino~" "hello.ino" ".git/" "../" "./")
 

@@ -5,8 +5,12 @@
 (setq display-line-numbers 'relative)
 (setq make-backup-files nil)
 (setq inhibit-splash-screen t)
-
-(add-to-list 'default-frame-alist `(font . "Consolas-12"))
+(defun default_font_by_OS()
+	(cond 
+	  ((eq system-type 'windows-nt) "Consolas-12")	
+	  ((eq system-type 'gnu/linux) "Monospace-12")))
+	
+(add-to-list 'default-frame-alist `(font . ,(default_font_by_OS)))
 
 (menu-bar-mode 0)
 (tool-bar-mode 0)

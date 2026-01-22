@@ -2,105 +2,325 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("c:/2048play.github.io/" . "scripts/")
- ("c:/Users/MSI/Desktop/Test/" . "Olympiad/")
- ("c:/Users/MSI/Desktop/" . "test/")
- ("c:/Gameboy/" . "font/")
- ("c:/Users/MSI/AppData/" . "Roaming/")
- ("c:/Users/MSI/" . "AppData/")
- ("c:/Users/" . "MSI/")
- ("c:/" . "2048play.github.io/")
- ("/home/bivector/Programming/recursion/" . "tail_recursion/")
- ("/home/bivector/Programming/" . "recursion/")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/ds/" . "queue/")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/" . "ds/")
+ ("/home/hellox86/proj/2048play/styles/" . "howto-style.css/")
+ ("/home/hellox86/proj/2048play/" . "scripts/")
+ ("/home/hellox86/proj/2048play.github.io/" . "scripts/")
+ ("/home/hellox86/proj/2048game.github.io/scripts/" . "modules/")
+ ("/home/hellox86/proj/2048game.github.io/" . "scripts/")
+ ("/home/hellox86/proj/" . "2048play/")
+ ("/home/hellox86/net/zapret/" . "common/")
+ ("/home/hellox86/net/" . "zapret/")
+ ("/home/hellox86/Programming/bivector/Olympiad/sirius/" . "2024-programming/")
+ ("/home/hellox86/Programming/bivector/Olympiad/" . "sirius/")
+ ("/home/hellox86/Programming/bivector/LearnC/Learning/things/" . "declarations/")
+ ("/home/hellox86/Programming/bivector/LearnC/Learning/" . "things/")
+ ("/home/hellox86/Programming/bivector/LearnC/" . "Learning/")
+ ("/home/hellox86/Programming/bivector/Algorithms/" . "prime_num/")
+ ("/home/hellox86/Programming/bivector/" . "Algorithms and data structures/")
+ ("/home/hellox86/Programming/" . "bivector/")
+ ("/home/hellox86/" . "Programming/")
+ ("/home/bivector/Programming/bivector/Algorithms/" . "recursion/")
+ ("/home/bivector/Programming/bivector/LearnC/Learning/Algorithms/" . "recursion/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/java/org/" . "mdisc_tweaks/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/java/" . "org/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/" . "java/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/" . "main/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/" . "src/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/" . "app/")
+ ("/home/bivector/Programming/bivector/minecraft_mods/" . "music_disc_tweaks/")
+ ("/home/bivector/Programming/bivector/jsonparser_rs/" . "src/")
+ ("/home/bivector/Programming/bivector/LearnC/Learning/data_structures/" . "hashtable/")
+ ("/home/bivector/Programming/bivector/LearnC/Learning/" . "things/")
+ ("/home/bivector/Programming/bivector/LearnC/" . "Learning/")
+ ("/home/bivector/Programming/bivector/" . "LearnC/")
+ ("/home/bivector/Programming/" . "bivector/")
+ ("/home/bivector/Downloads/" . "zapret/")
  ("/home/bivector/" . "2048/")
+ ("/home/" . "hellox86/")
+ ("/home/hello_x86/Programming/bivector/volume-project/" . "src/")
+ ("/home/hello_x86/Programming/bivector/LearnC/Learning/Algorithms/" . "sort/")
+ ("/home/hello_x86/Programming/bivector/raylib/" . "src/")
+ ("/home/hello_x86/Programming/bivector/game-of-life/" . "hashtable/")
+ ("/home/hello_x86/Programming/bivector/LearnC/Learning/" . "Algorithms/")
+ ("/home/hello_x86/Programming/bivector/LearnC/" . "Learning/")
+ ("/home/hello_x86/Programming/bivector/zoomer/" . "src/")
+ ("/home/hello_x86/" . "Programming/")
+ ("/home/hello_x86/user/" . "recovery/")
+ ("/home/hello_x86/Programming/bivector/image-parser/" . "src/")
+ ("/home/hello_x86/Programming/bivector/" . "LearnC/")
+ ("/home/hello_x86/Programming/" . "bivector/")
+ ("/" . "home/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "c:/Users/MSI/AppData/Roaming/"
- "c:/2048play.github.io/scripts/"
- "c:/Users/MSI/Desktop/test/"
- "c:/2048play.github.io/"
- "c:/2048play.github.io/assets/"
- "c:/2048play.github.io/styles/"
- "c:/Users/MSI/"
- "c:/Users/MSI/.ssh/"
- "c:/Users/MSI/Desktop/Test/Olympiad/"
- "c:/Users/MSI/Desktop/Test/"
- "c:/Users/MSI/Desktop/"
- "c:/Users/MSI/emacs/bin/"
- "c:/Gameboy/font/"
- "c:/Gameboy/menu/"
- "c:/Gameboy/hello/"
- "c:/"
+ "/home/hellox86/Programming/bivector/Algorithms and data structures/ds/queue/"
+ "/home/hellox86/Programming/bivector/Algorithms and data structures/ds/binary_tree/"
+ "/home/hellox86/proj/2048play/scripts/"
+ "/home/hellox86/proj/2048play/styles/"
+ "/home/hellox86/proj/2048play/"
+ "/home/hellox86/proj/2048play.github.io/scripts/"
+ "/home/hellox86/"
+ "/home/hellox86/proj/2048play.github.io/"
+ "/home/hellox86/proj/2048game.github.io/scripts/"
+ "/home/hellox86/proj/2048game.github.io/"
+ "/home/hellox86/proj/2048game.github.io/scripts/modules/"
+ "/home/hellox86/proj/2048game.github.io/styles/"
+ "/home/hellox86/net/zapret/"
+ "/home/hellox86/live/"
+ "/home/hellox86/2048/"
+ "/home/hellox86/Programming/bivector/Olympiad/sirius/2024-programming/"
+ "/home/hellox86/Programming/bivector/Olympiad/sirius/"
+ "/home/hellox86/Programming/bivector/Algorithms/gcd/"
+ "/home/hellox86/Programming/bivector/Algorithms/"
+ "/home/hellox86/Programming/bivector/Algorithms/prime_num/"
+ "/home/hellox86/Programming/bivector/asm/"
+ "/home/hellox86/Programming/bivector/LearnC/Learning/things/"
+ "/home/hellox86/Programming/bivector/LearnC/Learning/things/declarations/"
+ "/home/hellox86/Programming/bivector/LearnC/Learning/"
+ "/home/hellox86/Programming/bivector/Algorithms/recursion/"
  "/home/bivector/2048/"
- "/home/bivector/Programming/recursion/tail_recursion/"
+ "/home/bivector/Programming/bivector/LearnC/Learning/things/"
+ "/home/bivector/Programming/bivector/super_ellipse/"
  "/home/bivector/"
+ "/home/bivector/Programming/bivector/Algorithms/recursion/"
+ "/home/bivector/Programming/"
+ "/home/bivector/Programming/bivector/LearnC/Learning/Algorithms/recursion/"
+ "/home/bivector/Programming/bivector/plans/"
+ "/home/bivector/Programming/bivector/LearnC/Learning/data_structures/hashtable/"
+ "/home/bivector/Programming/bivector/LearnC/Learning/data_structures/"
+ "/home/bivector/Programming/bivector/LearnC/Learning/Algorithms/"
+ "/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/"
+ "/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/java/org/mdisc_tweaks/"
+ "/home/bivector/Programming/bivector/jsonparser_rs/"
+ "/home/bivector/Programming/bivector/jsonparser_rs/src/"
+ "/home/bivector/Programming/bivector/timer/"
+ "/home/bivector/Programming/bivector/leetcode/"
+ "/home/hello_x86/Programming/bivector/LearnC/Learning/Algorithms/sort/"
+ "/home/hello_x86/Programming/bivector/volume-project/src/"
+ "/home/hello_x86/"
+ "/home/hello_x86/Programming/bivector/game-of-life/hashtable/"
+ "/home/hello_x86/st/"
+ "/home/hello_x86/Programming/bivector/game-of-life/src/"
+ "/home/hello_x86/Programming/bivector/raylib/src/"
+ "/home/hello_x86/Programming/bivector/game-of-life/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".emacs"
- "game.js"
+ "main.pas"
  "main.js"
  "index.html"
- "test.js"
- "rotationMatrixModule.js"
+ "game.js"
+ "howto-style.css"
+ "howto.html"
+ "howto.js"
  "style.css"
- "particles.json"
- "github_icon.png"
- "tumbler-style.css"
+ ".emacs"
+ "rotationMatrixModule.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("c:/Users/MSI/Desktop/Test/" (26970 26609 0 0) "startServer.bat" "main.js" "index.html" "../" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/ds/queue/" (26993 61604 282871 685000) "../" ".git/" "./")
 
- ("c:/Users/MSI/Desktop/test/" (26970 26609 0 0) "startServer.bat" "main.js" "index.html" "../" "./")
+ ("/home/hellox86/" (26993 61615 203871 257000) ".bash_history-28937.tmp" ".bash_history-18711.tmp" ".bash_history-38442.tmp" ".bash_history-27399.tmp" ".nvidia-settings-rc" ".bash_history-02961.tmp" ".bash_history-32443.tmp" ".cache/" ".bash_history-36977.tmp" ".gnupg/" ".bash_history-03537.tmp" "Downloads/" ".bash_history-07556.tmp" ".com.xiaomitool.v2.gui.MainWindow/" ".bash_history-36029.tmp" ".xsession-errors" ".bash_history-29962.tmp" ".bashrc" ".bash_history-46682.tmp" ".bash_history-24144.tmp" ".gradle/" ".bash_history-42994.tmp" ".bash_history-37262.tmp" ".bash_history-25553.tmp" ".bash_history-31811.tmp" ".bash_history-05482.tmp" ".viminfo" ".nv/" ".bash_history-19606.tmp" ".Xauthority" ".bash_history-10771.tmp" ".bash_history" ".emacs.rc/" ".bash_history-36328.tmp" ".bash_history-07209.tmp" ".pulse-cookie" ".bash_history-04431.tmp" ".bash_history-34764.tmp" ".bash_history-03458.tmp" ".bash_history-24172.tmp" ".bash_history-30136.tmp" ".pki/" "iso-images/" ".bash_history-10890.tmp" ".bash_history-41395.tmp" ".bash_history-25331.tmp" ".bash_history-30535.tmp" ".bash_history-19781.tmp" ".bash_history-52969.tmp" ".bash_history-09252.tmp" ".java/" ".bash_history-26473.tmp" ".bash_history-24888.tmp" ".bash_history-42192.tmp" ".vimrc" "myemacs/" ".bash_history-55827.tmp" ".lesshst" ".bash_history-10746.tmp" ".bash_history-34777.tmp" ".bash_history-05012.tmp" ".bash_history-06674.tmp" ".bash_history-07366.tmp" ".bash_history-59810.tmp" ".bash_history-44288.tmp" ".bash_history-19020.tmp" ".vim/" ".bash_history-08960.tmp" ".bash_history-01430.tmp" ".local/" ".emacs.custom.el" ".bash_history-52358.tmp" ".xsession-errors.old" ".bash_history-37167.tmp" "proj/" ".bash_history-17400.tmp" ".bash_history-09892.tmp" ".emacs.d/" ".bash_history-02605.tmp" ".bash_history-36008.tmp" ".bash_history-03466.tmp" ".bash_history-54489.tmp" ".bash_history-01373.tmp" ".bash_history-36707.tmp" ".bash_history-16816.tmp" ".bash_history-12904.tmp" ".bash_history-12310.tmp" ".bash_history-31095.tmp" ".bash_history-04736.tmp" ".bash_history-02954.tmp" ".minecraft/" ".bash_history-08428.tmp" ".emacs.custom.el~" ".lazarus/" ".bash_history-20277.tmp" ".bash_history-19005.tmp" ".bash_history-36550.tmp" ".bash_history-09335.tmp" "net/" ".bash_history-22546.tmp" ".bash_history-29309.tmp" ".steampid" ".bash_history-16238.tmp" "Programming/" ".bash_history-64919.tmp" ".bash_history-59403.tmp" ".bash_history-19346.tmp" ".bash_history-19139.tmp" ".bash_history-50299.tmp" ".bash_history-11213.tmp" ".calc_history" ".bash_history-24403.tmp" ".bash_history-32469.tmp" ".bash_history-18493.tmp" ".bash_history-24169.tmp" ".bash_history-68418.tmp" ".npm/" ".ssh/" ".emacs.local/" ".bash_history-14665.tmp" ".bash_history-14583.tmp" ".bash_history-17929.tmp" ".bash_history-54589.tmp" ".gphoto/" ".bash_history-53636.tmp" ".factorio/" ".emacs" ".bash_history-27857.tmp" ".bash_profile" ".bash_history-55912.tmp" ".bash_history-30813.tmp" ".bash_history-07445.tmp" ".bash_history-20945.tmp" ".ICEauthority" ".bash_history-17765.tmp" ".bash_history-18056.tmp" ".bash_history-24796.tmp" ".bash_history-05415.tmp" "games/" ".bash_history-08905.tmp" ".bash_history-09491.tmp" ".bash_history-02812.tmp" ".bash_history-06374.tmp" ".steampath" ".emacs~" ".bash_history-22873.tmp" ".python_history" ".bash_history-27721.tmp" ".gitconfig" ".bash_history-13104.tmp" ".bash_history-10735.tmp" "VirtualBox VMs/" ".bash_history-32065.tmp" ".bash_history-18043.tmp" ".steam/" ".bash_history-08548.tmp" ".calc_history-26353.tmp" ".bash_history-12097.tmp" ".bash_history-65154.tmp" ".mozilla/" ".bash_history-20783.tmp" ".bash_history-47813.tmp" ".bash_history-55033.tmp" ".gervill/" ".bash_history-52304.tmp" ".bash_history-17027.tmp" ".bash_history-30931.tmp" ".bash_history-17275.tmp" ".bash_history-54536.tmp" ".bash_history-19291.tmp" ".bash_history-18559.tmp" ".bash_history-18607.tmp" ".bash_history-03103.tmp" ".bash_history-12737.tmp" "recovery/" ".bash_history-45870.tmp" ".bash_history-65272.tmp" ".bash_history-49291.tmp" ".nimble/" ".bash_history-07057.tmp" ".bash_history-18033.tmp" ".android/" "tmp/" ".bash_history-38365.tmp" ".bash_history-36378.tmp" ".bash_history-58573.tmp" ".bash_history-58004.tmp" ".dmrc" ".bash_history-42546.tmp" ".bash_history-25968.tmp" ".config/" ".bash_history-16941.tmp" ".bash_history-03935.tmp" ".bash_history-33805.tmp" ".bash_logout" ".bash_history-20716.tmp" ".bash_history-20586.tmp" ".bash_history-28290.tmp" ".bash_history-43251.tmp" ".wget-hsts" ".bash_history-36631.tmp" ".bash_history-07346.tmp" ".bash_history-12519.tmp" ".bash_history-29211.tmp" ".bash_history-21802.tmp" ".bash_history-41587.tmp" ".bash_history-17703.tmp" ".bash_history-44151.tmp" "anime/" ".bash_history-38923.tmp" ".bash_history-07663.tmp" ".bash_history-04917.tmp" ".bash_history-08453.tmp" ".bash_history-20991.tmp" ".bash_history-16916.tmp" ".bash_history-51270.tmp" "Applications/" ".bash_history-14246.tmp" "Documents/" ".bash_history-42167.tmp" ".bash_history-32044.tmp" ".bash_history-34099.tmp" ".bash_history-20952.tmp" ".bash_history-16176.tmp" ".bash_history-49021.tmp" ".bash_history-14913.tmp" ".bash_history-29624.tmp" ".bash_history-27559.tmp" ".bash_history-03849.tmp" ".bash_history-64225.tmp" ".bash_history-07933.tmp" ".bash_history-24428.tmp" ".bash_history-25248.tmp" ".bash_history-51285.tmp" ".bash_history-45623.tmp" "Desktop/" ".bash_history-04981.tmp" ".bash_history-39686.tmp" ".bash_history-10021.tmp" ".bash_history-03755.tmp" ".bash_history-37045.tmp" ".bash_history-42583.tmp" ".bash_history-21508.tmp" ".bash_history-68247.tmp" ".bash_history-58615.tmp" "../" "./")
 
- ("c:/Users/MSI/AppData/Roaming/" (26970 28466 0 0) "Yandex/" "Xiaomi/" "Wireshark/" "WinRAR/" "Visual Studio Setup/" "ts-modmail/" "Telegram Desktop/" "Sun/" "qBittorrent/" "PrismLauncher/" "ow-electron/" "obs-studio/" "NuGet/" "npm/" "Notepad++/" "MySQL/" "mpv/" "MPC-HC/" "Mozilla/" "mongo-db/" "Mindustry/" "Microsoft/" "Macromedia/" "jupyter/" "jun-takahashi/" "java/" "FTB Electron App/" "Factorio/" "emacs-git/" "draw.io/" "discord/" "com.xiaomitool.v2.gui.MainWindow/" "chats/" "blue-helmets/" "BleachBit/" "balenaEtcher/" "arduino-ide/" "Arduino IDE/" "Apple Computer/" "AMD/" "Adobe/" ".minecraft/" ".emacs.local/" ".emacs.d/" ".emacs.custom.el" ".emacs" "#message-20251231-192540#" "../" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/ds/bst/" (26992 62759 512257 334000) "README.md" "../" ".git/" "bst/" "./" "index.html")
 
- ("c:/2048play.github.io/scripts/" (26970 28346 0 0) "rotationMatrixModule.js" "main.js" "game.js" "../" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/ds/" (26993 58752 711983 400000) "linked_list/" "../" "queue/" "bst/" "stack/" "./")
 
- ("c:/Users/MSI/" (26970 28143 0 0) "Шаблоны/" "Мои документы/" "главное меню/" "zapret-openwrt-strategies/" "zapret-discord-youtube/" "VirtualBox VMs/" "VirtualBox VM/" "vimified/" "vimfiles/" "vim-plug/" "Videos/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrismLauncher/" "PrintHood/" "Pictures/" "package.json" "package-lock.json" "ntuser.ini" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{afa5da18-f0ab-11ed-9318-89cf5178d464}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "NetHood/" "Music/" "Local Settings/" "Links/" "HexCtrlDialogx64.exe" "gcc/" "find" "Favorites/" "emacs/" "Downloads/" "Documents/" "Doctor Web/" "Desktop/" "Cookies/" "Contacts/" "chromium/" "chromedriver/" "chrome/" "Application Data/" "AppData/" "3D Objects/" ".vscode/" ".VPNMaster/" ".VirtualBox/" ".viminfo" ".vim/" ".txt" ".thumbnails/" ".templateengine/" ".ssh/" ".python_history" ".platformio/" ".node_repl_history" ".m2/" ".lesshst" ".jdks/" ".idlerc/" ".gradle/" ".gitconfig" ".elevenclock/" ".dotnet/" ".config/" ".cisco/" ".chocolatey/" ".bash_history" ".arduinoIDE/" ".android/" "../" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/ds/binary_tree/" (26992 33903 899218 790000) "main.js" "README.md" "../" ".git/" "./" "index.html")
 
- ("c:/2048play.github.io/styles/" (26966 6336 0 0) "../" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms and data structures/" (26985 60702 278504 542000) "../" "ds/" "alg/" "./")
 
- ("c:/2048play.github.io/assets/" (26966 6402 0 0) "github_icon.png" "favicon.ico" "../" "./")
+ ("/home/hellox86/Programming/bivector/" (26985 60483 700495 547000) "leetcode/" "X11-Simple-HelloWorld/" "../" "volume-project/" "seconds_in_clock_win10/" "oge/" "archive/" "LearnC/" "game-of-life/" "simple-mona-lisa/" "super_ellipse/" "snake-game/" "Algorithms and data structures/" "./" "Olympiad/")
 
- ("c:/Users/MSI/Desktop/" (26968 43507 0 0) "Резюме Е.С. Часовитина.docx" "Работа/" "Музыка/" "Гемма/" "Tor Browser/" "test.html" "test/" "Terminal_RDP.rdp" "redwood_miui14/" "keyboard_test.rtf" "emacs.lnk" "drawio/" "desktop.ini" "DCIM_Canon/" "Cisco AnyConnect Secure Mobility Client.lnk" "Chromium.lnk" "Arduino IDE.lnk" "../" "./")
+ ("/home/hellox86/proj/2048play/scripts/" (26985 60348 490489 983000) "game.js" "main.js" "../" "howto.js" "rotationMatrixModule.js" "./")
 
- ("c:/2048play.github.io/" (26966 6602 0 0) "styles/" "style.css" "startServer.bat" "scripts/" "index.html" "assets/" ".gitignore" ".git/" "../" "./")
+ ("/home/hellox86/proj/2048play/" (26985 59872 562470 397000) "scripts/" "../" ".git/" "howto.html" "assets/" "styles/" ".gitignore" "./" "startServer.sh" "index.html")
 
- ("c:/Users/MSI/.ssh/" (26950 25306 0 0) "known_hosts.old" "known_hosts" "id_ed25519.pub" "id_ed25519" "config" "../" "./")
+ ("/home/hellox86/proj/" (26985 59686 31462 720000) "../" "2048play/" "./")
 
- ("c:/Users/MSI/Desktop/Test/Olympiad/" (26868 37439 0 0) "lanterns.c" "../" "./")
+ ("/home/hellox86/proj/2048play/styles/" (26985 49131 897028 381000) "../" "howto-style.css" "./" "style.css")
 
- ("c:/Gameboy/hello/" (26842 20805 0 0) "myfont.h~" "myfont.h" "hello.ino~" "hello.ino" ".git/" "../" "./")
+ ("/home/hellox86/proj/2048play/styles/howto-style.css/" (26984 65527 929513 982000) "../" "./")
 
- ("c:/Gameboy/menu/" (26840 57088 0 0) "menu.ino~" "menu.ino" "../" "./")
+ ("/home/hellox86/Programming/bivector/LearnC/Learning/things/" (26945 32463 813837 207000) "../" "type_punning.c~" "reversal_algorithm.c" "declarations/" "unions.c" "type_punning.c" "testfir.c" "tolower.c" "shift_array/" "random_in_range_algorithm.c" "2max.c" "a.out" "hello.c" "./" "reversal_algorithm.c~")
 
- ("c:/Users/MSI/emacs/bin/" (26848 41402 0 0) "zlib1.dll" "runemacs.exe" "libzstd.dll" "libXpm-nox4.dll" "libxml2-2.dll" "libwinpthread-1.dll" "libwebpdemux-2.dll" "libwebp-7.dll" "libunistring-5.dll" "libtree-sitter.dll" "libthai-0.dll" "libtasn1-6.dll" "libstdc++-6.dll" "libsqlite3-0.dll" "libsharpyuv-0.dll" "librsvg-2-2.dll" "libpng16-16.dll" "libpixman-1-0.dll" "libpcre2-8-0.dll" "libpangowin32-1.0-0.dll" "libpangoft2-1.0-0.dll" "libpangocairo-1.0-0.dll" "libpango-1.0-0.dll" "libp11-kit-0.dll" "libnettle-8.dll" "libmpfr-6.dll" "libmpc-3.dll" "liblzma-5.dll" "liblcms2-2.dll" "libjpeg-8.dll" "libisl-23.dll" "libintl-8.dll" "libidn2-0.dll" "libiconv-2.dll" "libhogweed-6.dll" "libharfbuzz-0.dll" "libgraphite2.dll" "libgobject-2.0-0.dll" "libgnutls-30.dll" "libgmp-10.dll" "libgmodule-2.0-0.dll" "libglib-2.0-0.dll" "libgio-2.0-0.dll" "libgif-7.dll" "libgdk_pixbuf-2.0-0.dll" "libgcc_s_seh-1.dll" "libfribidi-0.dll" "libfreetype-6.dll" "libfontconfig-1.dll" "libffi-8.dll" "libexpat-1.dll" "libdatrie-1.dll" "libcairo-gobject-2.dll" "libcairo-2.dll" "libbz2-1.dll" "libbrotlienc.dll" "libbrotlidec.dll" "libbrotlicommon.dll" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-30.2.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "#main.c#" "#libmpfr-6.dll#" "../" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms/gcd/" (26920 25143 740127 300000) "../" "gcd.c" "./" "gcd.c~")
 
- ("c:/Gameboy/font/" (26842 18358 0 0) "../" "./")
+ ("/home/hellox86/net/zapret/" (26943 54908 233026 98000) "docs/" "init.d/" "mdig/" "ipset/" "install_easy.sh" "../" "tpws/" ".git/" "common/" "Makefile" "install_bin.sh" "uninstall_easy.sh" "nfq/" "config" "tmp/" "ip2net/" "install_prereq.sh" "blockcheck.sh" ".gitattributes" "config.default" ".github/" ".gitignore" "binaries/" "./" "files/")
 
- ("c:/Gameboy/" (26842 18360 0 0) "menu/" "hello/" "font/" "../" "./")
+ ("/home/hellox86/proj/2048play.github.io/scripts/" (26984 58821 433789 2000) "game.js" "main.js" "../" "rotationMatrixModule.js" "./")
 
- ("c:/Users/MSI/AppData/" (25694 3772 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+ ("/home/hellox86/proj/2048play.github.io/" (26979 39802 103373 453000) "scripts/" "../" ".git/" "assets/" ".gitignore" "./" "style.css" "startServer.sh" "index.html")
 
- ("c:/Users/" (26444 33377 0 0) "Все пользователи/" "Администратор/" "Public/" "MSI/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+ ("/home/hellox86/proj/2048game.github.io/scripts/" (26924 24740 372358 749000) "game.js" "tumbler-logic.js" "../" "modules/" ".#game.js" "./")
 
- ("c:/Users/MSI/emacs/" (26838 36378 0 0) "share/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+ ("/home/hellox86/proj/2048game.github.io/scripts/modules/" (26919 6132 55777 536000) "../" "rotationMatrixModule.js~" "rotationMatrixModule.js" "./")
 
- ("/home/bivector/" (26831 48645 499465 328000) "st/" "yay/" "2048/" ".bash_history-00537.tmp" ".emacs.custom.el~" ".bash_history-02572.tmp" ".cache/" ".dmrc" ".bash_history-00530.tmp" ".emacs.custom.el" ".emacs" ".Xauthority" "../" ".bash_history" ".config/" ".viminfo" ".emacs.local/" ".ICEauthority" ".vimrc" ".gnupg/" ".bashrc" ".local/" ".lesshst" ".pki/" "Apps/" ".xsession-errors.old" ".bash_history-00546.tmp" ".bash_profile" ".nimble/" "Programming/" "Downloads/" ".xsession-errors" ".emacs.rc/" "sowon/" ".bash_logout" "./" ".mozilla/" ".emacs~" ".emacs.d/")
+ ("/home/hellox86/proj/2048game.github.io/" (26920 17391 244445 214000) "scripts/" "../" ".git/" "assets/" "styles/" ".gitignore" "./" "style.css" "startServer.sh" "index.html")
 
- ("/home/bivector/2048/" (26822 28650 773147 270000) "2048.c" "README.md" ".git/" "../" ".gitignore" "main.c" "a.out" "./" "Makefile" "game")
+ ("/home/" (26900 10850 279373 120000) "../" "lost+found/" "localhost/" "hellox86/" "./")
 
- ("/home/bivector/Programming/recursion/tail_recursion/" (26804 10509 985519 641000) "main.c~" "../" "main.c" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms/recursion/" (26847 43128 766081 720000) "../" "fib.c" "factorial.c" "hanoi_towers.c" "a.out" "./")
 
- ("/home/bivector/Programming/recursion/" (26804 9700 887088 653000) "../" "tail_recursion/" "./")
+ ("/home/hellox86/Programming/bivector/LearnC/Learning/" (26855 50653 235134 761000) "../" "asm/" "data_structures/" "things/" "libc/" "inline_functions/" "book_the_c_programming_language/" "functions_with_variable_number_arguments/" "./")
 
- ("/home/bivector/Programming/" (26804 9542 443416 663000) "../" "recursion/" "./")
+ ("/home/hellox86/Programming/bivector/Algorithms/" (26859 53234 413601 191000) "../" "prime_num/" "palindrome/" "sort/" "gcd/" "./" "recursion/")
+
+ ("/home/hellox86/Programming/bivector/Olympiad/sirius/2024-programming/" (26864 46098 469857 854000) "main.c" "../" "main.py" "a.out" "./")
+
+ ("/home/hellox86/proj/2048game.github.io/assets/" (26901 62642 600354 175000) "../" "github_icon.png" "./")
+
+ ("/home/hellox86/proj/2048game.github.io/styles/" (26905 62557 380640 966000) "tumbler-style.css" "../" "./")
+
+ ("/home/hellox86/net/zapret/common/" (26900 5855 577024 61000) "virt.sh" "linux_fw.sh" "./" "elevate.sh" "queue.sh" "list.sh" "nft.sh" "custom.sh" "linux_iphelper.sh" "ipt.sh" "base.sh" "../" "fwtype.sh" "installer.sh" "dialog.sh" "linux_daemons.sh" "pf.sh")
+
+ ("/home/hellox86/net/" (26900 5851 824024 270000) "zapret/" "./" "../")
+
+ ("/home/hellox86/live/" (26875 12722 513501 723000) "second.cpp~" "./" "second.cpp" "first.cpp~" "a.out" "second.py" "#second.cpp#" "../" "third.cpp" "first.cpp")
+
+ ("/home/hellox86/2048/" (26865 1678 322991 935000) "game" ".git/" "./" "a.out" "README.md" "../" "2048.c" "main.c" ".gitignore" "Makefile")
+
+ ("/home/hellox86/Programming/bivector/Olympiad/sirius/" (26863 49663 499656 366000) "./" "../" "2024-programming/")
+
+ ("/home/hellox86/Programming/bivector/Olympiad/" (26863 49652 61656 836000) "./" "../" "sirius/")
+
+ ("/home/hellox86/Programming/bivector/oge/" (26825 14741 71102 591000) "./" "oge16.c" "../")
+
+ ("/home/hellox86/Programming/bivector/Algorithms/prime_num/" (26855 34868 921753 143000) "main.c~" "./" "a.out" "../" "main.c")
+
+ ("/home/hellox86/Programming/bivector/asm/" (26853 9125 235331 439000) "./" "../")
+
+ ("/home/hellox86/Programming/bivector/LearnC/Learning/things/declarations/" (26833 5196 204668 806000) "./" "a.out" "../" "ptr.c")
+
+ ("/home/hellox86/Programming/bivector/LearnC/" (26820 2306 246094 805000) "./" "Learning/" "../")
+
+ ("/home/hellox86/Programming/bivector/Algorithms/sort/" (26820 2305 708452 45000) "./" "insert_sort.c" "TODO.md" "a.out" "../" "bubble_sort.c")
+
+ ("/home/hellox86/Programming/" (26820 2305 699094 807000) "./" "../" "bivector/")
+
+ ("/home/hellox86/Applications/" (26820 2023 860095 954000) "./" "sowon/" "boomer/" "../")
+
+ ("/home/bivector/2048/" (26815 65521 553506 43000) "./" "a.out" "game" "2048.c" "README.md" "../" ".git/" ".gitignore" "Makefile" "main.c" "2048.c~")
+
+ ("/home/bivector/" (26815 65462 678535 807000) ".vim/" ".bash_profile" ".nimble/" "Documents/" ".cache/" ".bash_history-00895.tmp" ".bash_history-30235.tmp" ".bash_history-20173.tmp" "sowon/" ".config/" ".python_history" "imp/" ".bash_history-21902.tmp" ".fehbg" ".nvidia-settings-rc" ".lesshst" ".bash_history-00668.tmp" ".emacs~" ".gradle/" "2048/" ".nv/" ".bash_history-33444.tmp" ".bashrc" ".emacs.local/" ".bash_history-03829.tmp" ".bash_history-17948.tmp" ".emacs.custom.el~" ".var/" ".bash_history-34735.tmp" ".factorio/" ".pulse-cookie" ".bash_history-76025.tmp" ".gscreenshot" ".local/" "st/" ".steam/" ".mozilla/" ".dmrc" ".bash_history-59740.tmp" ".bash_history-22010.tmp" ".emacs.rc/" "boomer/" ".calc_history" "net/" ".java/" ".emacs.custom.el" ".bash_history-00868.tmp" ".bash_history-17945.tmp" ".bash_history-38386.tmp" "recovery/" ".emacs.d/" ".bash_history-07452.tmp" ".bash_history-01900.tmp" ".steampath" "Programming/" ".emacs" ".bash_history-02465.tmp" ".bash_logout" ".vimrc" ".bash_history-37353.tmp" ".bash_history-38476.tmp" ".bash_history" ".gitconfig" ".bash_history-00891.tmp" ".xsession-errors" ".wget-hsts" ".bash_history-04448.tmp" ".xsession-errors.old" ".Xauthority" ".bash_history-30158.tmp" ".viminfo" ".ssh/" ".bash_history-00684.tmp" ".bash_history-09004.tmp" "Applications/" ".ICEauthority" ".steampid" ".pki/" ".minecraft/" ".gnupg/" ".xprofile" "Downloads/" ".bash_history-47948.tmp" "../" "./")
+
+ ("/home/bivector/Programming/bivector/LearnC/Learning/things/" (26814 61557 138545 886000) "reversal_algorithm.c" "./" "shift_array/" "../" "hello.c" "declarations/")
+
+ ("/home/bivector/Programming/bivector/LearnC/Learning/" (26804 36951 553801 598000) "things/" "./" "inline_functions/" "libc/" "book_the_c_programming_language/" "../" "data_structures/" "functions_with_variable_number_arguments/" "asm/")
+
+ ("/home/bivector/Programming/bivector/LearnC/" (26804 36230 273787 684000) "./" "Learning/" "../")
+
+ ("/home/bivector/Programming/bivector/super_ellipse/" (26808 9693 768546 817000) "./" "main.c~" "s_e" "../" ".gitignore" "Makefile" "main.c")
+
+ ("/home/bivector/Programming/bivector/" (26808 8309 196603 595000) "game-of-life/" "./" "super_ellipse/" "X11-Simple-HelloWorld/" "leetcode/" "archive/" "../" "Algorithms/" "volume-project/" "LearnC/" "snake-game/" "simple-mona-lisa/" "seconds_in_clock_win10/")
+
+ ("/home/bivector/Programming/bivector/Algorithms/recursion/" (26805 38671 953072 45000) "fib.c~" "./" "a.out" "hanoi_towers.c" "factorial.c~" "../" "factorial.c" "fib.c")
+
+ ("/home/bivector/Programming/bivector/Algorithms/" (26804 36103 487785 238000) "./" "../" "sort/" "recursion/")
+
+ ("/home/bivector/Programming/" (26804 37053 247803 560000) "./" "../" "bivector/")
+
+ ("/home/bivector/Programming/bivector/LearnC/Learning/Algorithms/recursion/" (26804 36160 466786 337000) "./" "hanoi_towers.rs" "hanoi_towers.c" "fib_loop.rs" "../" "fib_loop.c" "fact.c")
+
+ ("/home/bivector/Programming/bivector/LearnC/Learning/Algorithms/" (26804 36103 487785 238000) "./" "../" "sort/" "recursion/")
+
+ ("/home/bivector/Programming/bivector/plans/" (26800 26717 978 712000) "./" "a.out" "../" "shift_array.c~")
+
+ ("/home/bivector/Programming/bivector/leetcode/" (26789 37194 493123 697000) "./" "reverse_integer.c" "a.out" "../" "reverse_integer.c~" "a.out~")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/" (26796 14819 197576 877000) "src/" "./" "build.gradle~" "build/" "../" "build.gradle")
+
+ ("/home/bivector/Programming/bivector/LearnC/Learning/data_structures/hashtable/" (26796 16345 992514 266000) "./" "a.out" "hash.c" "../" "hashtable.c~" "hashtable.c" "a.out~")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/java/org/mdisc_tweaks/" (26796 14666 596583 135000) "./" "Main.java" "Main.java~" "../")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/java/org/" (26796 13459 570632 633000) "./" "mdisc_tweaks/" "../")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/java/" (26796 12878 26337 472000) "./" "org/" "../")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/main/" (26796 12878 25656 481000) "./" "resources/" "../" "java/")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/src/" (26796 12878 15463 803000) "./" "../" "main/" "test/")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/app/build/" (26796 13933 846702 71000) "./" "../" "scripts/" "distributions/" "libs/" "classes/" "tmp/" "generated/")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/music_disc_tweaks/" (26796 13335 271637 730000) "gradle/" "./" "gradlew" "gradle.properties" ".gradle/" "build/" "../" ".git/" ".gitignore" "settings.gradle" "gradlew.bat" ".gitattributes" "app/")
+
+ ("/home/bivector/Programming/bivector/minecraft_mods/" (26796 12410 400675 657000) "./" "music_disc_tweaks/" "../")
+
+ ("/home/bivector/Programming/bivector/jsonparser_rs/" (26792 24440 278430 40000) "./" "test.json" "../" ".git/")
+
+ ("/home/bivector/Programming/bivector/jsonparser_rs/src/" (26792 22951 811491 79000) "main.rs" "./" "../")
+
+ ("/home/bivector/Programming/bivector/archive/" (26792 22013 871529 542000) "./" "zoomer/" "timer/" "../")
+
+ ("/home/bivector/Programming/bivector/timer/" (26792 16104 280771 883000) "./" "LICENSE" "timer" "../" ".git/" ".gitignore" "Makefile" "main.c")
+
+ ("/home/bivector/Programming/bivector/LearnC/Learning/data_structures/" (26783 21648 434762 961000) "./" "../" "linked_list/" "hashtable/" "stack/")
+
+ ("/home/bivector/Programming/bivector/game-of-life/" (26783 11975 596552 645000) "src/" "./" "README.md" "LICENSE" "../" ".git/" "Makefile" "hashtable/")
+
+ ("/home/bivector/Downloads/zapret/" (26783 15162 361003 561000) "common/" "blockcheck.sh" "./" "install_prereq.sh" "ipset/" "init.d/" "uninstall_easy.sh" "nfq/" "../" ".git/" "install_bin.sh" "config" "config.default" "tpws/" "binaries/" ".gitignore" "Makefile" ".gitattributes" "files/" "mdig/" ".github/" "ip2net/" "docs/" "tmp/" "install_easy.sh")
+
+ ("/home/bivector/Downloads/" (26783 17717 380898 785000) "./" "../" "zapret/")
+
+ ("/home/hello_x86/Programming/bivector/LearnC/Learning/Algorithms/sort/" (26780 50795 407272 226000) "insert_sort.c" "TODO.md" "bubble_sort.c" "./" "TODO.md~" "a.out" "../" "insert_sort.c~" "bubble_sort.c~")
+
+ ("/home/hello_x86/" (26780 51615 447641 824000) ".var/" ".gitconfig" ".bash_history-25550.tmp" ".mozilla/" "network/" ".bash_history-25539.tmp" ".profile" ".config/" "prismlauncher" ".bash_logout" ".vim/" ".steampid" ".gradle/" ".sdkman/" ".face" ".ssh/" "Programming/" ".lesshst" ".bash_history-25688.tmp" ".vimrc" ".bash_history-13653.tmp" ".nvidia-settings-rc" ".emacs.rc/" ".bash_history-56498.tmp" ".factorio/" ".local/" "user/" ".emacs" ".steampath" ".emacs.local/" ".face.icon" ".bash_history-09540.tmp" ".sudo_as_admin_successful" "update_packages.sh" ".emacs~" "./" ".viminfo" ".zshrc" ".cache/" ".emacs.custom.el" ".gnupg/" ".Xauthority" ".nimble/" ".ICEauthority" "boomer/" ".bash_history-48699.tmp" ".python_history" ".dmrc" ".bash_history-19075.tmp" "Downloads/" "../" ".calc_history" ".bash_history-49088.tmp" ".bashrc" ".steam/" ".bash_history" ".emacs.custom.el~" ".nv/" ".pki/" "launch_prismlauncher.c" ".bash_history-03907.tmp" ".xsession-errors.old" "st/" ".emacs.d/" "games/" ".bash_history-06322.tmp" ".bash_history-25517.tmp" ".xsession-errors" "imp/")
+
+ ("/home/hello_x86/Programming/bivector/volume-project/src/" (26779 38587 803851 753000) "token.c~" "./" "../" "token.c")
+
+ ("/home/hello_x86/Programming/bivector/volume-project/" (26764 22836 225333 225000) "LICENSE" "clean.sh" "./" "src/" "README.md" "vutil" "build.sh" "../" "volume")
+
+ ("/home/hello_x86/Programming/bivector/game-of-life/hashtable/" (26778 11004 294079 894000) "hashtable.c" "hashtable.c~" "./" "a.out" "../")
+
+ ("/home/hello_x86/st/" (26778 10643 133520 558000) "config.h" "Makefile" "x.o" "st-copyout" "hb.h" "st.o" "LICENSE" "boxdraw.o" ".gitignore" "hb.o" "st-urlhandler" ".git/" "win.h" "st.1" "hb.c" "st.info" "./" "boxdraw_data.h" "README.md" "boxdraw.c" "Xdefaults" "st.h" "FUNDING.yml" "../" "arg.h" "x.c" "config.mk" "st" "st.c" "PKGBUILD")
+
+ ("/home/hello_x86/Programming/bivector/LearnC/Learning/Algorithms/" (26777 51897 990251 305000) "sort/" "fib_loop.c" "./" "fib_loop.rs" "hanoi_towers.c" "../" "hanoi_towers.rs")
+
+ ("/home/hello_x86/Programming/bivector/LearnC/Learning/" (26771 5889 859977 718000) "Algorithms/" "functions_with_variable_number_arguments/" "./" "libc/" "inline_functions/" "../" "book_the_c_programming_language/" "asm/" "data_structures/")
+
+ ("/home/hello_x86/Programming/bivector/game-of-life/" (26776 35073 65116 891000) "Makefile" "hashtable/" "LICENSE" ".git/" "./" "src/" "README.md" "../")
+
+ ("/home/hello_x86/Programming/bivector/game-of-life/src/" (26776 35030 8957 695000) "game" "hashlife.c" "./" "game.c" "a.out" "../" "hashlife.c~")
+
+ ("/home/hello_x86/Programming/bivector/raylib/src/" (26770 24647 788476 583000) "config.h" "raylib.dll.rc.data" "platforms/" "utils.h" "Makefile" "rgestures.h" "raudio.c" "raymath.h" "rtext.c" "minshell.html" "raylib.rc.data" "rglfw.c" "rtextures.c" "rcore.c" "rcamera.h" "rmodels.c" "raylib.ico" "raylib.rc" "shell.html" "./" "CMakeLists.txt" "raylib.h" "external/" "raylib.dll.rc" "../" "rshapes.c" "utils.c" "rlgl.h")
+
+ ("/home/hello_x86/Programming/bivector/" (26770 3592 263858 452000) "X11-Simple-HelloWorld/" "snake-game/" "zoomer/" "volume-project/" "LearnC/" "seconds_in_clock_win10/" "./" "game-of-life/" "raylib/" "../" "simple-mona-lisa/")
+
+ ("/home/hello_x86/Programming/bivector/raylib/" (26767 13229 368026 479000) "CMakeOptions.txt" "LICENSE" "CHANGELOG" "CONVENTIONS.md" ".gitignore" ".git/" "examples/" "ROADMAP.md" "raylib.pc.in" "./" "BINDINGS.md" "src/" "README.md" "CMakeLists.txt" ".github/" "parser/" "build.zig" "projects/" "FAQ.md" "cmake/" "../" "HISTORY.md" "logo/" "build/" "build.zig.zon" "CONTRIBUTING.md")
+
+ ("/home/hello_x86/user/recovery/" (26766 63054 768508 626000) "./" "../" "discord_backup_codes.txt" "Backup-codes-zvonkov.dalv.txt")
+
+ ("/home/hello_x86/Programming/bivector/simple-mona-lisa/" (26764 62798 754928 814000) "main.c~" "main.c" "./" "a.out" "../")
+
+ ("/home/hello_x86/Programming/bivector/LearnC/" (26763 19162 257227 959000) "Learning/" "termios/" "./" "../")
+
+ ("/home/hello_x86/Programming/bivector/zoomer/src/" (26767 2862 705804 287000) "main.c" "#main.c#" "zoomer" "./" "a.out" "../" ".#main.c")
+
+ ("/home/hello_x86/Programming/bivector/zoomer/" (26767 2676 413620 436000) "Makefile" "LICENSE" ".git/" "Makefile~" "./" "src/" "README.md" "../")
+
+ ("/home/hello_x86/Programming/bivector/image-parser/src/" (26765 59448 554153 898000) "parser.c" "./" "main" "../")
+
+ ("/home/hello_x86/Programming/" (26764 64215 54888 39000) "bivector/" ".git/" "./" "../")
+
+ ("/home/hello_x86/user/" (26764 35254 628738 203000) "recovery/" "./" "../")
+
+ ("/home/hello_x86/Programming/bivector/image-parser/" (26763 19335 176483 19000) "LICENSE" ".git/" "./" "src/" "build.sh" "../")
+
+ ("/home/hello_x86/.emacs.d/" (26764 25341 603016 108000) "eln-cache/" "./" "transient/" "auto-save-list/" "../" "elpa/")
+
+ ("/home/hello_x86/.emacs.d/elpa/" (26764 31634 534687 842000) "dash-2.20.0/" "magit-4.3.8.signed" "dash-2.20.0.signed" "transient-0.9.3.signed" "compat-30.1.0.1.signed" "magit-section-4.3.8.signed" "autothemer-0.2.18.signed" "./" "dash-functional-20250312.1307/" "magit-section-4.3.8/" "gnupg/" "autothemer-0.2.18/" "compat-30.1.0.1/" "llama-1.0.0.signed" "smex-20151212.2209/" "../" "llama-1.0.0/" "archives/" "gruber-darker-theme-0.7.signed" "magit-4.3.8/" "transient-0.9.3/" "with-editor-3.4.4.signed" "gruber-darker-theme-0.7/" "with-editor-3.4.4/")
+
+ ("/home/hello_x86/.emacs.d/elpa/smex-20151212.2209/" (26764 31634 626689 576000) "smex.elc" "smex.el" "./" "smex-pkg.el" "../" "smex-autoloads.el")
+
+ ("/bin/" (26764 26250 96212 777000) "loffice" "from" "ldd" "dpkg-query" "addpart" "ppmtopict" "fc-cache" "pcxtoppm" "lwp-request" "jstat" "gzip" "xfce4-popup-clipman-actions" "xfce4-about" "pnmcut" "flite_cmu_us_kal16" "scp-dbus-service" "display-im6" "grub-editenv" "pdftocairo" "zless" "glib-genmarshal" "awk" "systemd-cryptenroll" "pbmpscale" "pbmtopsg3" "checkmk" "meson" "xsetmode" "pamcut" "dh_installcatalogs" "pi1toppm" "pamlevels" "systemd-tmpfiles" "X11/" "systemd-repart" "chrt" "uxterm" "dh_installexamples" "xfce4-sensors" "bdftruncate" "dotlock.mailutils" "jbigtopnm" "git" "ppmtoicr" "view" "hexdump" "xconsole" "ijoin" "tgatoppm" "tput" "xdpyinfo" "systemd-creds" "bashbug" "fincore" "grub-menulst2cfg" "decodemail" "x86_64-linux-gnu-gp-display-html" "update-alternatives" "atril" "iceauth" "ospent" "pgmtosbig" "bzcmp" "sha224sum" "bdftopcf" "gnome-keyring" "utmpdump" "toe" "pamtooctaveimg" "ppmtoleaf" "msggrep" "pnmcomp" "ppmcie" "zipinfo" "pamstereogram" "pamscale" "lnstat" "capinfos" "unxz" "mousepad" "pampaintspill" "icombine" "xmessage" "pnmtojbig" "dh_bash-completion" "rtstat" "yuy2topam" "lzma" "xfce4-popup-whiskermenu" "identify-im6" "xkbset-gui" "splitfont" "imagetops" "ppmquant" "pbmtodjvurle" "mt" "nc.traditional" "du" "mogrify-im6" "fallocate" "dpkg-vendor" "pygmentize" "json_xs" "systemd-id128" "ntfstruncate" "hb-subset" "x86_64-linux-gnu-cpp" "ping4" "xfce4-screenshooter" "dig" "x-session-manager" "xfce4-popup-directorymenu" "pamdice" "xsetwacom" "ppmshadow" "rdma" "volume" "x86_64-linux-gnu-gcc-ranlib-12" "pnmtile" "fc-scan" "vim" "open" "autopoint" "dh_installlogcheck" "desktop-file-validate" "dh_installdeb" "c++" "pbmtomda" "thunar-volman" "gtkdocize" "isdv4-serial-inputattach" "xkbcomp" "grub-file" "zstdmt" "ptksh" "x86_64-linux-gnu-gcc-ranlib" "pamgetcolor" "pamtopdbimg" "whiptail" "flite_cmu_time_awb" "gpgv" "pamtouil" "ppmtoneo" "xfdesktop-settings" "join" "xfce4-terminal.wrapper" "zipdetails" "whatis" "ptargrep" "msgexec" "unshare" "dumpcap" "mokutil" "lsblk" "ps2txt" "libnetcfg" "7za" "pod2text" "zcmp" "ppm3d" "gcc-ranlib" "kbd_mode" "mkhtmlindex" "red" "x86_64-linux-gnu-g++" "lzdiff" "dh" "localc" "jlink" "pkttyagent" "alsaloop" "lslocks" "deb-systemd-invoke" "neotoppm" "nmtui" "ppmtopcx" "scanimage" "keytool" "git-receive-pack" "xditview" "ebrowse" "brushtopbm" "gtkdoc-scangobj" "gpg-zip" "gtkdoc-scan" "lsns" "xzfgrep" "rmdir" "pon" "display" "paplay" "dbus-run-session" "stream" "xcutsel" "lp" "laptop-detect" "pktopbm" "py3versions" "cupstestppd" "more" "uconv" "pwdx" "pbmtoescp2" "lto-dump" "memusagestat" "411toppm" "xlogo" "mail" "prove" "dvipdf" "lessfile" "timedatectl" "pidof" "pbmtog3" "ppmtosixel" "pbmtolj" "xrandr" "avahi-resolve-host-name" "jmod" "spd-conf" "lzegrep" "x86_64-linux-gnu-gcov-tool-12" "setpci" "xfce4-find-cursor" "stty" "cacaclock" "git-upload-archive" "gpasswd" "tset" "pamfixtrunc" "cc" "gsettings" "ppdhtml" "fold" "pdb3.11" "ppmtogif" "operon" "ippfind" "precat" "echo" "sort" "xfce4-color-settings" "rgb3toppm" "x-window-manager" "curl" "dh_installdirs" "pamaltsat" "systemd" "pamcrater" "whoami" "lzfgrep" "POST" "perl5.36-x86_64-linux-gnu" "xcmsdb" "dh_installmodules" "nice" "systemd-tty-ask-password-agent" "kbdinfo" "elfedit" "delv" "messages.mailutils" "dpkg-parsechangelog" "eps2eps" "import-im6.q16" "sirtopnm" "ospcat" "st" "pamstretch-gen" "ppmntsc" "whereis" "defmt-sh" "pngfix" "fakeroot-tcp" "traceroute.db" "cd-iccdump" "gapplication" "ntfscluster" "rm" "chacl" "dh_autoreconf" "gobject-query" "pygettext3" "pbmtoicon" "serialver" "broadwayd" "prismlauncher" "bzdiff" "msgunfmt" "gtk-encode-symbolic-svg" "kernel-install" "from.mailutils" "true" "pf2afm" "sudoreplay" "pgmtopbm" "pamtopng" "startxfce4" "pdfattach" "dpkg-statoverride" "mv" "apt-extracttemplates" "aclocal-1.16" "pbmtomrf" "ppmwheel" "xfce4-mime-settings" "chvt" "script" "cameratopam" "i3-sensible-editor" "zstdless" "axfer" "pgmtost4" "vi" "sldtoppm" "pamdepth" "ico" "tail" "gtbl" "dirname" "edit" "xdriinfo" "pgmmake" "dpkg-checkbuilddeps" "dpkg-source" "msguniq" "xdg-icon-resource" "x86_64-linux-gnu-gcc-ar-12" "kbxutil" "soelim" "dh_installlogrotate" "xfconf-query" "w3mman" "fusermount3" "pbmtobbnbg" "shasum" "glib-gettextize" "ntfsusermap" "ppmdraw" "glib-compile-resources" "movemail" "man-recode" "x86_64-linux-gnu-gp-display-src" "xinit" "gendict" "i386" "ppdc" "makeinfo" "ncursesw6-config" "watch" "pldd" "aseqdump" "ppmbrighten" "dh_installtmpfiles" "ppmglobe" "egrep" "xmodmap" "neqn" "anytopnm" "xlsclients" "pgmminkowski" "chmod" "python3.11" "jpackage" "bzless" "su" "isdv4-serial-debugger" "convert-im6.q16" "gcov-dump" "frm.mailutils" "chfn" "mt-gnu" "cpp-12" "gtkdoc-mkpdf" "bmtoa" "fitstopnm" "xfce4-terminal" "xbmtopbm" "bison" "cmake" "cvtsudoers" "xcalc" "pactl" "i3-config-wizard" "ppmdim" "cacademo" "dpkg-divert" "xwininfo" "munchlist" "pambayer" "mbim-network" "psfaddtable" "xfwm4-settings" "pamfind" "lsipc" "gzexe" "sane-find-scanner" "x86_64-linux-gnu-addr2line" "lzcmp" "stdbuf" "test" "logname" "df" "i3-with-shmlog" "pamhomography" "makeg" "alsatplg" "comm" "ctags" "pslog" "x-terminal-emulator" "stream-im6" "aplay" "pnmcat" "ristretto" "pacmd" "scriptlive" "pi3topbm" "pmap" "identify-im6.q16" "wpa_passphrase" "i3-input" "gencnval" "mountpoint" "xrefresh" "gcc-ar-12" "st4topgm" "x86_64-linux-gnu-ranlib" "pgmramp" "ppmtouil" "pampop9" "nm-online" "dh_perl" "ppmddumpfont" "gcov-tool" "factor" "qoitopam" "pamdeinterlace" "systemd-sysext" "sgitopnm" "pathchk" "normalizer" "hpcdtoppm" "msgmerge" "readlink" "cs2cs" "xfsettingsd" "avahi-publish" "uncompress" "namei" "c99-gcc" "pidwait" "ddbugtopbm" "composite-im6" "resizepart" "lto-dump-12" "dh_builddeb" "pamtohdiff" "py3clean" "pdbimgtopam" "dh_installifupdown" "debconf-gettextize" "gtk-launch" "automake" "xiccd" "xdg-desktop-menu" "i3-dmenu-desktop" "strip" "gdbus-codegen" "pbmtoatk" "readelf" "montage" "groups" "ebrowse.emacs" "pgmabel" "sleep" "gtkdoc-mkhtml" "ssid" "linux-boot-prober" "dbus-send" "ntfsfallocate" "make" "x86_64-linux-gnu-gcov-tool" "mesg" "stest" "xmag" "xfce4-dict" "pamedge" "nohup" "dh_installwm" "fc-pattern" "qrttoppm" "pcre2-config" "msgen" "pnmsmooth" "ppmcolors" "mkfontscale" "ginstall-info" "ctstat" "install" "pbmclean" "dh_installppp" "docbook-to-man" "look" "x86_64-linux-gnu-pkg-config" "ppmquantall" "passwd" "pdb3" "nawk" "i3-dump-log" "systemd-delta" "pfmtopam" "notify-send" "7z" "ppmtomap" "bmptoppm" "xkbwatch" "loginctl" "umax_pp" "wireshark" "composite" "x86_64-linux-gnu-as" "alsabat" "pamperspective" "randpkt" "unicode_stop" "xwd" "mmdbresolve" "ppmtoyuv" "pamtable" "nc" "etags" "dh_installchangelogs" "dir" "uuencode" "pbmtowbmp" "gcc" "firefox-esr" "dirmngr" "recode-sr-latin" "system-config-printer-applet" "yuvtoppm" "conjure-im6" "rawtopgm" "montage-im6.q16" "xdg-dbus-proxy" "arecordmidi" "xfce4-clipman" "locale" "conjure-im6.q16" "rawshark" "ping6" "gpic" "xmore" "xgettext" "debconf-updatepo" "pnmfile" "pgmbentley" "xml2-config" "slogin" "nm" "rmiregistry" "setmetamode" "emacs" "xterm" "reordercap" "gs" "lowntfs-3g" "traceroute6.db" "rev" "xkbbell" "compare-im6" "fc-conflist" "systemd-sysusers" "flite_cmu_us_slt" "journalctl" "ppmtv" "msgcat" "bioradtopgm" "ppdmerge" "dh_installdocs" "ppmtoapplevol" "pnmflip" "podebconf-display-po" "lzgrep" "xvminitoppm" "setxkbmap" "unopkg" "colrm" "trust" "libpng-config" "nmtui-hostname" "vmwarectrl" "gnome-keyring-3" "rlatopam" "timeout" "nsenter" "pnmtopnm" "slabtop" "jstack" "xzgrep" "dh_compress" "texi2dvi" "x86_64-linux-gnu-gcov-dump-12" "xauth" "makeconv" "x86_64-linux-gnu-ld.gold" "deb-systemd-helper" "xfce4-popup-applicationsmenu" "setpriv" "gcc-ar" "arch" "pamshadedrelief" "dpkg-gensymbols" "pamcat" "sprof" "pamtohtmltbl" "xzcat" "pamflip" "dh_installinitramfs" "apt-sortpkgs" "text2pcap" "winicontoppm" "gcc-12" "dh_installcron" "apt-config" "ghostscript" "rgrep" "ppmcolormask" "ospam" "pgrep" "dunst" "pamrestack" "gtkdoc-fixxref" "pbmtoibm23xx" "pamlookup" "systemd-notify" "pbmtoepsi" "autoreconf" "pdffonts" "ucfr" "nsupdate" "lispmtopgm" "xzmore" "pamhue" "xfrun4" "nmtui-edit" "lsmem" "quodlibet" "alsamixer" "pager" "lowriter" "xrdb" "xprop" "dh_prep" "xfce4-settings-manager" "nslookup" "lynx" "apropos" "prlimit" "dmesg" "i3-msg" "pcdindex" "dotlock" "mdig" "pnmscalefixed" "pnmtotiff" "flock" "pstree.x11" "pdf2dsc" "dh_quilt_patch" "pdftotext" "gpgcompose" "xfhelp4" "pamtopnm" "geqn" "eyuvtoppm" "select-editor" "avahi-browse" "psfgettable" "perlthanks" "autoconf" "pwd" "x11perfcomp" "messages" "luit" "infocmp" "lsb_release" "xclip-cutfile" "lwp-mirror" "icuinfo" "captoinfo" "onsgmls" "mdatopbm" "pnminvert" "gtkdoc-check" "gtf" "ntfscmp" "xlsatoms" "lzmainfo" "x86_64-linux-gnu-gp-display-text" "lexgrog" "tasksel" "lsfd" "i3status" "crc32" "jdeps" "plog" "xev" "flite_cmu_us_awb" "pbmtozinc" "getfacl" "x86_64-linux-gnu-gold" "ex" "x86_64-linux-gnu-gcov" "realpath" "x86_64-linux-gnu-dwp" "gpgconf" "basenc" "pamtoqoi" "fgrep" "false" "ppmtoppm" "eject" "unicode_start" "objdump" "dpkg-deb" "svgtopam" "dh_strip_nondeterminism" "pnmtofits" "x86_64-linux-gnu-gcov-12" "findaffix" "palmtopnm" "pgmkernel" "fc-query" "grub-mkrelpath" "x86_64-linux-gnu-objcopy" "sensible-browser" "vimtutor" "txixml2texi" "grub-mkfont" "column" "pamendian" "groff" "catman" "lofromtemplate" "efibootdump" "dpkg-realpath" "pygettext3.11" "pamthreshold" "xfwm4-workspace-settings" "cmuwmtopbm" "fonttosfnt" "zgrep" "ipcs" "parec" "poff" "dh_installman" "qmi-network" "xfce4-mime-helper" "dmenu_path" "xhost" "cpp" "kmod" "appres" "mergelib" "Thunar" "systemd-hwdb" "light-locker-command" "lft" "pamtilt" "xclip-pastefile" "loimpress" "killall" "pnmtorle" "pamgauss" "conjure" "perlivp" "pango-segmentation" "jarsigner" "pnminterp-gen" "pamseq" "pkgdata" "gtkdoc-rebase" "sudoedit" "ntfsls" "perldoc" "glib-compile-schemas" "b2sum" "pamsumm" "pnmalias" "dwz" "printafm" "xset" "dbus-daemon" "pamunlookup" "vdir" "gslp" "sieve" "fmt" "perl5.36.0" "pgmtolispm" "dpatch2quilt" "c89-gcc" "cpio" "sixel2png" "nisdomainname" "bzfgrep" "zdump" "addr2line" "x86_64-linux-gnu-nm" "ucs2any" "img2sixel" "autoheader" "systemd-inhibit" "amixer" "emacs-29.11" "ppmtopi1" "less" "mbimcli" "xfce4-display-settings" "ntfswipe" "lastlog" "sed" "xfce4-session-settings" "ppmtobmp" "thinkjettopbm" "dunstify" "pzstd" "ed" "ucfq" "gettextize" "pnmcolormap" "ppmchange" "see" "colcrt" "lastb" "update-mime-database" "cacaview" "x-www-browser" "pnmconvol" "stream-im6.q16" "vimdiff" "wget" "lzcat" "pamgradient" "debconf-copydb" "emacsclient.emacs" "nstat" "grub-mkimage" "ld.bfd" "mkfifo" "blender-thumbnailer" "jar" "pkaction" "size" "gtkdoc-mkdb" "ls" "lft.db" "x86_64-linux-gnu-gcc-12" "traceproto.db" "ucf" "swarp" "exo-open" "mogrify" "pl2pm" "blender" "aa-features-abi" "tkjpeg" "lwp-dump" "mmcli" "pamfix" "ppmfade" "mtvtoppm" "pamaddnoise" "systemd-socket-activate" "invproj" "dh_fixperms" "pamchannel" "lscpu" "nroff" "tempfile" "pamtotiff" "networkctl" "zegrep" "pbmtogo" "usbhid-dump" "GET" "pdftohtml" "pbmtopk" "projsync" "osgmlnorm" "lex" "texi2any" "tzselect" "m4" "smproxy" "gsdj" "pamcomp" "x86_64-linux-gnu-ar" "strings" "jps" "ncurses5-config" "cd-it8" "pamtris" "xlsfonts" "xsubpp" "zipgrep" "pbmtonokia" "pnmpaste" "ypdomainname" "xfce4-session" "netcat" "import-im6" "linux-version" "javadoc" "dpkg-trigger" "sputoppm" "ptx" "ssh-keygen" "ybmtopbm" "lomath" "pinentry-gnome3" "gdk-pixbuf-csource" "dh_bugfiles" "dbus-launch" "derb" "w3m" "i3-nagbar" "mawk" "mktemp" "giftopnm" "unlzma" "pambackground" "xedit" "dotlockfile" "firefox" "xkeystone" "HEAD" "pnmquantall" "xfce4-settings-editor" "bzip2" "objcopy" "report-hw" "clear_console" "pdfsig" "date" "emacsclient" "debconf-set-selections" "dh_systemd_enable" "dh_testdir" "light-locker" "systemd-mount" "expand" "texi2pdf" "base64" "x86_64-linux-gnu-lto-dump" "ppdi" "toilet" "pbmto10x" "funzip" "zstd" "ipptool" "gunzip" "system-config-printer" "dpkg-architecture" "ssh" "dash" "aconnect" "pbmtoxbm" "xzegrep" "pnmtojpeg" "perli11ndoc" "ppmtojpeg" "jstatd" "chage" "listres" "pdftops" "wc" "openvt" "pgmmorphconv" "tr" "psfxtable" "pamrecolor" "ispell-wrapper" "dh_installinfo" "dircolors" "cistopbm" "intel-virtual-output" "dh_systemd_start" "preunzip" "sbigtopgm" "x11perf" "avahi-publish-address" "rpcgen" "pnmenlarge" "ppmtopgm" "pydoc3.11" "mail.mailutils" "pamexec" "jimage" "aa-exec" "pdftexi2dvi" "gdk-pixbuf-pixdata" "pbmtoybm" "pnminterp" "nl" "systemd-firstboot" "bwrap" "lp_solve" "grub-script-check" "pbmtoppa" "od" "pdfinfo" "java" "tbl" "atril-thumbnailer" "ssh-agent" "write" "dm-tool" "nano" "w" "fakeroot-sysv" "rasttopnm" "tabbed" "enchant-2" "pavucontrol" "setfont" "ld.so" "Xorg" "pnmstitch" "dex" "g++" "rstart" "sha256sum" "pamfunc" "iecset" "lxterm" "cmp" "msgfilter" "debconf" "xfce4-clipman-history" "ncursesw5-config" "xfontsel" "pamshuffle" "mimeopen" "pbmreduce" "g++-12" "thunar-settings" "lspgpot" "yuvsplittoppm" "dmenu_run" "gsbj" "dwp" "exo-desktop-item-edit" "pkgconf" "ppmtoyuvsplit" "pamwipeout" "dh_auto_install" "pambrighten" "domainname" "ps2pdf12" "cksum" "tifftopnm" "printf" "pnmtopalm" "gencat" "jcmd" "pamenlarge" "dd" "orca-dm-wrapper" "bzgrep" "defmt-c" "gpg" "partx" "mimeview" "pydoc3" "pbmtox10bm" "ppmdmkfont" "lzless" "gcr-viewer" "systemctl" "mrftopbm" "pbmtomatrixorbital" "pbmtocis" "pgmdeshadow" "pnmremap" "pamtodjvurle" "pdfunite" "xfwm4" "apt-mark" "ppmtoxpm" "ss" "gcov" "pnmarith" "debconf-show" "pbmtoln03" "debconf-apt-progress" "perl" "pnmnlfilt" "imgtoppm" "pnmpad" "gpgsm" "ppmshift" "pbmminkowski" "fuser" "bison.yacc" "ncurses6-config" "h2ph" "gemtopnm" "setvtrgb" "snice" "pbmupc" "dpkg" "pamtosvg" "rename.ul" "x86_64-linux-gnu-gcc-ar" "grub-syslinux2cfg" "jdb" "readmsg" "linux-check-removal" "lndir" "traceroute-nanog" "startx" "bitmap" "sh" "i3" "dh_dwz" "pamx" "pnmdepth" "paperconf" "gtester-report" "animate-im6" "pbmtoplot" "cpan" "fc-list" "touch" "x86_64-linux-gnu-gp-archive" "eqn" "msgattrib" "pbmnoise" "i3-save-tree" "pamsummcol" "vmstat" "winicontopam" "pamundice" "icontopbm" "icuexportdata" "gp-display-text" "gslj" "libtoolize" "dirmngr-client" "pa-info" "resizecons" "xfce4-notifyd-config" "dh_installudev" "pbmtoascii" "diffstat" "hostname" "import" "pnmtopng" "apt-cdrom" "driverless-fax" "tabbed.default" "animate" "mailq" "last" "xclip" "pbmtoptx" "sync" "genbrk" "dh_testroot" "x86_64" "pbmtogem" "glib-mkenums" "aseqnet" "shar" "wall" "chattr" "print" "x86_64-linux-gnu-strings" "bzcat" "dh_auto_test" "setarch" "jp2a" "pnmmercator" "pnmtoplainpnm" "systemd-cgtop" "ntfs-3g" "dpkg-mergechangelogs" "ppmmake" "gp-display-html" "pnmmargin" "gencfu" "i3bar" "pbmtolps" "dbus-cleanup-sockets" "xdg-desktop-icon" "xclipboard" "zcat" "traceproto" "ctest" "ntfsfix" "sudo" "unmkinitramfs" "imake" "systemd-detect-virt" "mid3cp" "hb-shape" "systemd-machine-id-setup" "x86_64-linux-gnu-ld.bfd" "telnet" "memusage" "ps2pdf14" "scp" "cut" "split" "pc1toppm" "hb-view" "piconv" "troff" "rletopnm" "systemd-escape" "prezip" "pnmpsnr" "xssstate" "cleanlinks" "xsm" "ppmtoarbtxt" "libpng16-config" "asciitopgm" "dh_ucf" "ld" "pamstretch" "xfce4-power-manager" "ppmtopuzz" "gcov-tool-12" "ppmpat" "editres" "ischroot" "pnmrotate" "foomatic-rip" "pbmtoepson" "gmake" "dh_makeshlibs" "pamtotga" "cd-create-profile" "ppmtolj" "pnmtosir" "pbmto4425" "cvt" "psidtopgm" "migrate-pubring-from-classic-gpg" "usb-devices" "gold" "xfce4-mouse-settings" "pod2usage" "X" "patch" "dh_autotools-dev_updateconfig" "atktopbm" "pbmtomacp" "c_rehash" "mknod" "dh_installsystemduser" "koi8rxterm" "gtk-builder-tool" "exfalso" "ssh-argv0" "word-list-compress" "gtkdoc-mkman" "dpkg-genchanges" "py3compile" "7zr" "getconf" "avstopam" "ppmtospu" "po2debconf" "sessreg" "autom4te" "make-first-existing-target" "i3-migrate-config-to-v4" "zfgrep" "peekfd" "helpztags" "jexec" "pnmhisteq" "dh_installtex" "lodraw" "pamsharpmap" "gettext.sh" "busctl" "ntfsmove" "printenv" "pkg-config" "top" "pstopnm" "gettext" "c89" "pamfile" "pdftoppm" "fstopgm" "dpkg-maintscript-helper" "grub-mkpasswd-pbkdf2" "jpegtopnm" "pnmtotiffcmyk" "pamrgbatopng" "screendump" "install-info" "systemd-stdio-bridge" "systemd-ask-password" "preconv" "dh_installinit" "jdeprscan" "traceroute" "pnmnorm" "ppmlabel" "pnmscale" "xkbprint" "makedepend" "dh_installmime" "znew" "newgrp" "apt" "compare" "codepage" "csplit" "pamsplit" "javac" "dh_installmenu" "enchant-lsmod-2" "linux-update-symlinks" "ppmrelief" "ppmtoascii" "rendercheck" "gdk-pixbuf-thumbnailer" "lpstat" "parole" "rview" "splain" "shred" "vim.tiny" "systemd-path" "dh_usrlocal" "lslogins" "ntfssecaudit" "tee" "pnmtorast" "dbus-uuidgen" "ppmtopj" "animate-im6.q16" "ionice" "dh_autoreconf_clean" "head" "pammasksharpen" "pgmtopgm" "pgmtexture" "jmap" "pulseaudio" "bzip2recover" "grotty" "ssh-copy-id" "viewres" "delpart" "x86_64-linux-gnu-g++-12" "uudecode" "netstat" "dnstap-read" "mesa-overlay-control.py" "iconv" "aspell-import" "speech-dispatcher" "showconsolefont" "ppmtowinicon" "xeyes" "pgmcrater" "x86_64-linux-gnu-lto-dump-12" "enc2xs" "truncate" "pnmindex" "lessecho" "x86_64-linux-gnu-c++filt" "tabbed.meta" "usbreset" "xdg-settings" "json_pp" "cpan5.36-x86_64-linux-gnu" "dnsdomainname" "md5sum.textutils" "showrgb" "nmcli" "faillog" "xdg-mime" "gie" "cct" "systemd-cat" "pbmtosunicon" "dh_installxfonts" "ilbmtoppm" "dh_quilt_unpatch" "x86_64-linux-gnu-readelf" "yacc" "bzmore" "runcon" "slock" "pamstack" "pngtopam" "link" "parecord" "convert-im6" "unzipsfx" "xfwm4-tweaks-settings" "uniq" "grub-fstest" "pgmoil" "lsinitramfs" "pampick" "grub-mkstandalone" "sdiff" "dh_movefiles" "tabs" "sftp" "msgcmp" "run-with-aspell" "chardetect" "reportbug" "grops" "run-mailcap" "zeisstopnm" "rstartd" "pamslice" "dh_installalternatives" "efibootmgr" "mogrify-im6.q16" "pico" "sunicontopnm" "wbmptopbm" "pnmtofiasco" "flite" "watchgnupg" "xargs" "expr" "setterm" "x86_64-linux-gnu-gcc-nm" "uclampset" "pamtogif" "prtstat" "atril-previewer" "rbash" "mergecap" "hb-ot-shape-closure" "airscan-discover" "pamtompfont" "vim.basic" "loadkeys" "pngtopnm" "desktop-file-edit" "pgmnorm" "sselp" "seq" "gnome-keyring-daemon" "thunar-volman-settings" "ppmhist" "sensors" "mandb" "wayland-scanner" "xzless" "ul" "emacs-gtk" "podebconf-report-po" "gcc-nm" "spdsend" "tryaffix" "udevadm" "dh_missing" "debianbts" "nmtui-connect" "corelist" "xkill" "sharkd" "xfce4-accessibility-settings" "systemd-cgls" "p11-kit" "lsirq" "diff3" "reset" "id" "atobm" "ntfsinfo" "pnmtoddif" "ntfscat" "pfbtopfa" "hardlink" "shuf" "pgmtoppm" "xdg-user-dirs-update" "x86_64-linux-gnu-gcc" "tty" "[" "ctags.emacs" "Telegram" "movemail.mailutils" "pamsharpness" "xfce4-power-manager-settings" "p7zip" "unlink" "grep" "gio-querymodules" "xfdesktop" "ppmrough" "dbus-update-activation-environment" "msgconv" "scriptreplay" "sprop" "file2brl" "clear" "xstdcmap" "jconsole" "pphs" "mimetype" "mid3iconv" "update-perl-sax-parsers" "pgmnoise" "quilt" "x86_64-linux-gnu-strip" "gresource" "aclocal" "xkbevd" "captype" "pnmtosgi" "dh_auto_configure" "gpgsplit" "dh_link" "gpg-wks-server" "pbmtocmuwm" "update-desktop-database" "ppmtoterm" "pnmgamma" "unexpand" "srftopam" "flite_cmu_us_rms" "getent" "desktop-file-install" "setsid" "genrb" "aa-enabled" "systemd-analyze" "compare-im6.q16" "gnome-www-browser" "ngettext" "ps2ps2" "crontab" "querybts" "alsaucm" "gtester" "dh_md5sums" "h2xs" "ranlib" "xarchiver" "grub-mklayout" "mgrtopbm" "mutagen-pony" "xpmtoppm" "xsane" "sum" "xfce4-panel" "users" "stterm" "pbmtextps" "pango-view" "dh_perl_openssl" "git-upload-pack" "ppmtorgb3" "pnmtops" "ppmflash" "zstdgrep" "gtkdoc-mkhtml2" "bash" "x86_64-linux-gnu-pkgconf" "linux64" "dpkg-genbuildinfo" "upower" "psfstriptable" "mtrace" "pammixinterlace" "speaker-test" "tac" "pamtojpeg2k" "paste" "skill" "pammixmulti" "pcdovtoppm" "xbiff" "host" "pgmhist" "www-browser" "mkfontdir" "lspci" "x86_64-linux-gnu-ld" "m17n-db" "dh_installmanpages" "xload" "xfce4-appfinder" "pod2man" "avahi-resolve" "pnmmontage" "perlbug" "udisksctl" "avahi-set-host-name" "rawtoppm" "ntfsrecover" "pnmtopclxl" "spottopgm" "dpkg-name" "pamoil" "avahi-publish-service" "fusermount" "gtk-update-icon-cache" "x86_64-linux-gnu-gprof" "invgeod" "fc-match" "flex++" "c99" "spctoppm" "lesspipe" "libreoffice" "dh_clean" "pasuspender" "sha512sum" "pdfseparate" "pnmhistmap" "xfce4-popup-windowmenu" "xkbset" "xsltproc" "automake-1.16" "pod2html" "gpg-agent" "leaftoppm" "frm" "install-printerdriver" "lsmod" "bzegrep" "xwdtopnm" "msginit" "apt-ftparchive" "pgmenhance" "display-im6.q16" "mk_modmap" "env" "discover-config" "zforce" "dpkg-split" "ps2pdf13" "loweb" "ppmmix" "bmptopnm" "chgrp" "uname" "sha384sum" "autoupdate" "pnmtoxwd" "widget" "pamtopfm" "inetutils-telnet" "nproc" "pinky" "dh_icons" "jshell" "xfce4-popup-clipman" "dh_installsystemd" "ppmnorm" "ssh-keyscan" "avahi-resolve-address" "systemd-umount" "pamtopam" "ps2pdfwr" "bzexe" "gcov-12" "xdg-open" "msgcomm" "x86_64-linux-gnu-elfedit" "man" "pnmquant" "chsh" "msgfmt" "ps" "ptked" "libsixel-config" "dbus-monitor" "xgc" "md5sum" "projinfo" "dh_strip" "escp2topbm" "wmname" "login" "dh_listpackages" "dpkg-scanpackages" "dpkg-scansources" "fgconsole" "dh_update_autotools_config" "xsetpointer" "buildhash" "fc-validate" "sensors-conf-convert" "gio" "osx" "pstree" "img2txt" "i3-sensible-terminal" "encguess" "ppmtotga" "apt-listchanges" "ckbcomp" "systemd-run" "gemtopbm" "dh_installpam" "pbmlife" "deb3" "bunzip2" "ppdpo" "pamditherbw" "lsattr" "pamtoxvmini" "xfd" "which" "ppmdither" "gp-display-src" "xdg-email" "xss-lock" "mutagen-inspect" "cp" "cpack" "select-default-iwrap" "pgmmedian" "grub-mkrescue" "os-prober" "free" "pammosaicknit" "busybox" "pr" "pamtofits" "sensible-editor" "unshar" "pgmedge" "cd-fix-profile" "xdg-screensaver" "transset" "cacaserver" "ip" "JxrDecApp" "linux32" "geod" "pkill" "ppmtompeg" "xcursorgen" "pango-list" "xman" "which.debianutils" "pinentry-curses" "dumpkeys" "composite-im6.q16" "ps2epsi" "who" "pod2texi" "col" "pbmtext" "mcookie" "readmsg.mailutils" "setfacl" "spd-say" "dpkg-gencontrol" "numfmt" "identify" "padsp" "grub-mknetdir" "dh_gencontrol" "convert" "ntfs-3g.probe" "pdfimages" "aspell" "pbmtopi3" "zstdcat" "gprof" "t2p" "xgamma" "zmore" "xfce4-appearance-settings" "instant" "pgmslice" "xfce4-clipman-settings" "ptardiff" "flite_cmu_us_kal" "apt-key" "dh_autotools-dev_restoreconfig" "lesskey" "JxrEncApp" "kill" "gsdj500" "ntfsdecrypt" "pamvalidate" "sha1sum" "pinentry" "x86_64-linux-gnu-gcov-dump" "dpkg-distaddfile" "fakeroot" "rvim" "pamtowinicon" "ps2ascii" "ppmdist" "pgmtofs" "fc-cat" "x86_64-linux-gnu-gp-collect-app" "x86_64-linux-gnu-gcc-nm-12" "dh_shlibdeps" "ipcmk" "pdf2ps" "lpoptions" "deallocvt" "hipstopgm" "qmi-firmware-update" "pbmmask" "xsetroot" "sg" "lwp-download" "flite_time" "gtk-query-settings" "ifnames" "hd" "ppmtoacad" "pic" "pbmtomgr" "editcap" "tar" "tic" "jhsdb" "htop" "dunstctl" "dpkg-buildflags" "pkcheck" "i3lock" "taskset" "dh_installxmlcatalogs" "ppmtomitsu" "pamon" "javap" "ln" "jpeg2ktopam" "bc" "dh_assistant" "hostnamectl" "setkeycodes" "ppmdcfont" "g3topbm" "chafa" "xfburn" "ppmtopjxl" "scalar" "gccmakedep" "arecord" "showkey" "pamrubber" "ping" "choom" "editor" "grub-glue-efi" "dh_auto_clean" "avahi-browse-domains" "pbmtopgm" "mid3v2" "grub-render-label" "gp-collect-app" "base32" "xfce4-taskmanager" "cancel" "ipcrm" "grub-kbdcomp" "faked-sysv" "amidi" "ispell" "ptar" "gsnd" "unzstd" "gpgtar" "envsubst" "debconf-communicate" "python3" "setlogcons" "findmnt" "dmenu" "pbmpage" "xflock4" "fiascotopnm" "xkbvleds" "run-parts" "gpg-connect-agent" "ppmspread" "xclock" "pamarith" "prezip-bin" "xclip-copyfile" "x86_64-linux-gnu-cpp-12" "ninja" "traceroute6" "apt-get" "debconf-escape" "rnano" "qmicli" "proj" "pnmcrop" "driverless" "cacaplay" "xvidtune" "gprofng" "oclock" "moggsplit" "figlet" "file" "dh_auto_build" "dh_installemacsen" "grog" "ar" "macptopbm" "xfce4-popup-places" "xzdiff" "infotocap" "uptime" "gcc-nm-12" "unzip" "pamsistoaglyph" "xvinfo" "chcon" "gdbus" "gamma4scanimage" "ps2ps" "ppmtoeyuv" "etags.emacs" "lcf" "dpkg-shlibdeps" "getkeycodes" "sotruss" "colormgr" "chown" "mkdirhier" "faked-tcp" "flex" "jinfo" "savelog" "x86_64-linux-gnu-objdump" "c++filt" "neofetch" "pnmnoraw" "loadunimap" "setleds" "lzmore" "dh_install" "xfce4-keyboard-settings" "gcc-ranlib-12" "guards" "gcov-dump-12" "pnmsplit" "yes" "tload" "grub-mount" "xz" "instmodsh" "basename" "start-pulseaudio-x11" "mailx" "hostid" "tsort" "ssh-add" "figlet-toilet" "pjtoppm" "gtkdoc-depscan" "umount" "pax11publish" "compose" "renice" "manpath" "x86_64-linux-gnu-size" "pdfdetach" "ppmforge" "xfce4-session-logout" "expiry" "png-fix-itxt" "plymouth" "ld.gold" "xmkmf" "pamtosrf" "wdctl" "revpath" "cat" "pkexec" "autoscan" "thunar" "routel" "i3-sensible-pager" "dh_lintian" "cacafire" "lsof" "ximtoppm" "podchecker" "localedef" "lsusb" "pamtoavs" "xdg-user-dir" "setupcon" "stat" "sensible-pager" "jrunscript" "ps2pdf" "gouldtoppm" "synaptic-pkexec" "pacat" "montage-im6" "pbmmake" "resize" "git-shell" "mapscrn" "ppmrainbow" "soffice" "xwud" "orca" "newaliases" "xbrlapi" "as" "dh_installsysusers" "x86_64-linux-gnu-gprofng" "dh_installdebconf" "zdiff" "logger" "cpio-filter" "find" "mkdir" "jfr" "apt-cache" "mount" "texindex" "aplaymidi" "openssl" "lsw" "streamzip" "dh_installgsettings" "localectl" "ppmtoilbm" "gp-archive" "diff" "dpkg-buildpackage" "xzcmp" "gpgparsemail" "chardet" "pnmshear" "hdifftopam" "pinentry-x11" "getopt" "infotopam" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
